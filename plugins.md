@@ -17,7 +17,6 @@
 | ascclemens | Globetrotter | Automatically shows where treasure maps are located. /pglobetrogger /tmap |
 | ascclemens | Good Memory | Adds an indicator in item tooltips to show whether you have acquired that item. |
 | ascclemens | HudSwap | Automatically changes your HUD layout for you. /phudswap |
-| Bluefissure | Inviter | Automatically invite people to your party (doesn't work for CWLS). /xinvite to open. |
 | Caraxi | Item Search Plugin | Search for items. Type /xlitem to open search window. |
 | NR | LogFilter | Turn off log filter. |
 | Caraxi | MacroRecursion | Execute macros from macros. /runmacro ## [shared] [line] |

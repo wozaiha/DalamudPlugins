@@ -236,23 +236,6 @@
     "DownloadLinkUpdate": "https://gitee.com/bluefissure/DalamudPlugins/raw/cn/plugins/HudSwap/latest.zip"
   },
   {
-    "Author": "Bluefissure",
-    "Name": "Inviter",
-    "Description": "Automatically invite people to your party (doesn't work for CWLS). /xinvite to open.",
-    "InternalName": "Inviter",
-    "AssemblyVersion": "1.0.1.0",
-    "RepoUrl": "https://github.com/Bluefissure/Inviter",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 2,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 0,
-    "LastUpdate": "1611435375",
-    "DownloadLinkInstall": "https://gitee.com/bluefissure/DalamudPlugins/raw/cn/plugins/Inviter/latest.zip",
-    "DownloadLinkTesting": "https://gitee.com/bluefissure/DalamudPlugins/raw/cn/plugins/Inviter/latest.zip",
-    "DownloadLinkUpdate": "https://gitee.com/bluefissure/DalamudPlugins/raw/cn/plugins/Inviter/latest.zip"
-  },
-  {
     "Author": "Caraxi",
     "Name": "Item Search Plugin",
     "Description": "Search for items. Type /xlitem to open search window.",
