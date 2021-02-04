@@ -10,6 +10,27 @@ $dlTemplateUpdate = "https://gitee.com/bluefissure/DalamudPlugins/raw/cn/plugins
 
 $thisPath = Get-Location
 
+$translations = @{}
+$index = 0
+$en_desc = ""
+
+Get-Content -Encoding UTF8 -Path translations.txt | ForEach-Object {
+    $index++
+    If ( $index % 2 -eq 0) {
+        $translations.Add($en_desc, $_)
+    }else{
+        $en_desc = $_
+    }
+}
+
+function Get-Translation($value) {
+    if ($translations.ContainsKey($value)) {
+        $translations[$value]
+    } else {
+        $value
+    }
+}
+
 $table = ""
 
 Get-ChildItem -Path plugins -File -Recurse -Include *.json |
@@ -24,6 +45,7 @@ Foreach-Object {
         $content | add-member -Name "IsHide" -value "False" -MemberType NoteProperty
         
         $newDesc = $content.Description -replace "\n", "<br>"
+        $newDesc = $(Get-Translation($newDesc))
         $table = $table + "| " + $content.Author + " | " + $content.Name + " | " + $newDesc + " |`n"
     }
 
