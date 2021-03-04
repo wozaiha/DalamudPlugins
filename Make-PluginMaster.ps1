@@ -5,8 +5,8 @@ $notInclude = "vberfgg", "sdafsaf", "XIVStats", "bffbbf", "VoidList", "asdfsad",
 
 $counts = Get-Content "downloadcounts.json" | ConvertFrom-Json
 
-$dlTemplateInstall = "https://raw.fastgit.org/Bluefissure/DalamudPlugins/cn/plugins/{0}/latest.zip"
-$dlTemplateUpdate = "https://raw.fastgit.org/Bluefissure/DalamudPlugins/cn/plugins/{0}/latest.zip"
+$dlTemplateInstall = "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/{0}/latest.zip"
+$dlTemplateUpdate = "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/{0}/latest.zip"
 
 $thisPath = Get-Location
 
