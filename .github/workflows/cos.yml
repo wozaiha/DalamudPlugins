@@ -9,13 +9,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Tencent Cloud COS Action
-      uses: TencentCloud/cos-action@v1
-      with:
-        secret_id: ${{ secrets.SECRET_ID }}
-        secret_key: ${{ secrets.SECRET_KEY }}
-        cos_bucket: ${{ secrets.BUCKET }}
-        cos_region: ${{ secrets.REGION }}
-        local_path: /
-        remote_path: /
-        clean: true
+      - name: Checkout cn
+        uses: actions/checkout@v2
+        with:
+          ref: cn
+
+      - name: Upload COS
+        uses: zkqiang/tencent-cos-action@v0.1.0
+        with:
+          args: delete -r / && upload -r ./ /
+          secret_id: ${{ secrets.SECRET_ID }}
+          secret_key: ${{ secrets.SECRET_KEY }}
+          bucket: ${{ secrets.BUCKET }}
+          region: ${{ secrets.REGION }}
