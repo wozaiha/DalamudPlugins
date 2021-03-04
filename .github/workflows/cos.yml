@@ -19,7 +19,7 @@ jobs:
       - name: Upload COS
         uses: zkqiang/tencent-cos-action@v0.1.0
         with:
-          args: delete -r -f / && upload -r ./ /
+          args: config -e cos.accelerate.myqcloud.com && delete -r -f / && upload -r ./plugins /plugins && upload ./pluginmaster.json /
           secret_id: ${{ secrets.SECRET_ID }}
           secret_key: ${{ secrets.SECRET_KEY }}
           bucket: ${{ secrets.BUCKET }}
