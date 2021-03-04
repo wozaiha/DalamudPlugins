@@ -13,15 +13,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           ref: cn
-
-      - name: Setup node
-        uses: actions/setup-node@v1
-        with:
-          node-version: "10.x"
-
-      - name: Build project
-        run: yarn && yarn build
-
+          
       - name: Upload COS
         uses: zkqiang/tencent-cos-action@v0.1.0
         with:
