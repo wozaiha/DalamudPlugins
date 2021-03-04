@@ -16,10 +16,19 @@ jobs:
         with:
           ref: cn
 
+      - name: Clear COS
+        uses: Bluefissure/tencent-cos-action@v0.1.1
+        with:
+          args: delete -r -f /
+          secret_id: ${{ secrets.SECRET_ID }}
+          secret_key: ${{ secrets.SECRET_KEY }}
+          bucket: ${{ secrets.BUCKET }}
+          region: ${{ secrets.REGION }}
+
       - name: Upload COS
         uses: Bluefissure/tencent-cos-action@v0.1.1
         with:
-          args: delete -r -f / && upload -r ./plugins /plugins && upload ./pluginmaster.json /
+          args: upload -r ./plugins /plugins && upload ./pluginmaster.json /
           secret_id: ${{ secrets.SECRET_ID }}
           secret_key: ${{ secrets.SECRET_KEY }}
           bucket: ${{ secrets.BUCKET }}
