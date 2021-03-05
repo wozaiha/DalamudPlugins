@@ -1,8 +1,8 @@
 Shows the current countdown time.
 显示当前战斗倒计时。
 Elevate your gaming experience to gaming euphoria with integrated adult intimate hardware. Requires a Buttplug.io library server, such as Intiface Desktop: https://intiface.com/desktop/
-借助集成的成人专用硬件，将您的游戏体验提升为游戏愉悦感。 需要Buttplug.io库服务器，例如 Intiface Desktop：https://intiface.com/desktop/
-Dalamud plugin for in-game browser rendering. Think OverlayPlugin, but it's in the game itself.<br>Use the settings button below or the /pbrowser command to configure.
+借助集成的成人玩具专用硬件，将您的游戏体验提升为游戏愉悦。 需要Buttplug.io库服务器，例如 Intiface Desktop：https://intiface.com/desktop/
+Dalamud plugin for in-game browser rendering. Think OverlayPlugin, but it's in the game itself.<br>Use the settings button below or the '/bh config' command to configure.
 Dalamud 插件，用于游戏内浏览器渲染。 类似于 OverlayPlugin，但它内置于游戏之中。<br>使用下面的设置按钮或 /pbrowser 命令进行配置。
 Enables in-game chat bubbles.
 启用游戏中的聊天气泡。
@@ -64,7 +64,7 @@ A Dalamud plugin that allows volume control from anywhere, including gpose and c
 一个Dalamud插件，允许从任何地方进行音量控制，包括调音和过场动画。
 Chat Commands for teleporting to Aetherytes. /tp for help
 传送到水晶的聊天命令。 /tp 寻求帮助
-Create, share, and shuffle custom title screens for FFXIV.
+Create, share, and shuffle custom title screens for FFXIV. 
 创建，共享和随机播放 FFXIV 的自定义标题屏幕。
 This plugin controls the visibility of players, pets, minions and chocobos.
 该插件控制玩家，宠物和陆行鸟的可见性。
@@ -72,3 +72,5 @@ Manage waymark presets.  Use "/pwaymark help" for more information.
 管理标点预设。 使用“/pwaymark help”以获取更多信息。
 This plugin condenses combos and mutually exclusive abilities onto a single button.
 该插件将连击和相互排斥的能力凝聚到一个按钮上。
+Adds an overlay to support IME in dalamud input.
+给 dalamud 的输入框添加一个输入法支持窗口。
