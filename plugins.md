@@ -34,7 +34,7 @@
 | Haplo064 | Pixel Perfect Plugin | 添加一个 hitbox 指示器。 |
 | kalilistic | PriceCheck | 快速价格检查您的物品。 |
 | UnknownX | QoL Bar | 旨在为聊天命令提供简单，可自定义且始终可用的界面的插件<br>或其他插件，以减轻使用宏和快捷栏空间来获得相似结果的需求。<br><br>该插件最初应显示为 游戏窗口底部中心的小框。 |
-| Caraxi | Remind Me | 冷却和状态跟踪。<br>/remindme |
+| Caraxi | Remind Me | Cooldown and Status tracking. |
 | Caraxi | Simple Tweaks | 改善游戏体验小工具集合。 旨在改善体验，而无需进行大幅度更改。<br>所有更改都是可切换的，默认情况下禁用所有功能。 访问代码仓库以获取完整的调整列表。 （下面的地球图标） |
 | Haplo064 | SlideCast Plugin | 添加指示符，指示何时可以安全滑步 |
 | karashiiro | SoundSetter | 一个Dalamud插件，允许从任何地方进行音量控制，包括调音和过场动画。 |
