@@ -18,6 +18,7 @@
 | ascclemens | Good Memory | 在物品提示中添加一个指示器，以显示您是否已获得该物品。 |
 | ascclemens | HudSwap | 自动为您更改 HUD 布局。 /phudswap |
 | Bluefissure | IMEPlugin | 给 dalamud 的输入框添加一个输入法支持窗口。 |
+| Bluefissure | IMEPlugin | 给 dalamud 的输入框添加一个输入法支持窗口。 |
 | Caraxi | Item Search Plugin | 搜索物品。 键入 /xlitem 以打开搜索窗口。 |
 | NR | LogFilter | 关闭屏蔽过滤器。 |
 | Caraxi | MacroRecursion | 从宏执行宏。 /runmacro ## [shared] [line] |
