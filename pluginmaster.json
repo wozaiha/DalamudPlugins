@@ -493,7 +493,7 @@
     "Name": "PingPlugin",
     "Description": "A ping display plugin for Dalamud.",
     "InternalName": "PingPlugin",
-    "AssemblyVersion": "1.9.2.0",
+    "AssemblyVersion": "1.11.1.0",
     "RepoUrl": "https://github.com/karashiiro/PingPlugin",
     "Tags": [
       "ping",
@@ -507,7 +507,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1607181248",
+    "LastUpdate": "1615483762",
     "DownloadLinkInstall": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/PingPlugin/latest.zip",
     "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/PingPlugin/latest.zip",
     "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/PingPlugin/latest.zip"
