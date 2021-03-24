@@ -37,13 +37,13 @@ Highlights recommended tiles in Mini Cactpot for your next move.
 This plugin allows for macro-like use of actions without any macro delay.
 该插件允许类似宏的操作使用，而没有任何宏延迟。
 BLM MP Timer for XivLauncher/Dalamud.
-XivLauncher/Dalamud 的 BLM MP 计时器。
+XivLauncher/Dalamud 的黑魔回蓝计时器。
 Adds a simple front-end for browsing and changing the in-game BGM.  /porch to open
 添加了一个简单的前端，用于浏览和更改游戏中的背景音乐。 /porch 打开
 This plugin uwu's your chat.
 该插件将聊天框火星文化。
 Shows who is or was targeting you. /ptom
-显示谁是或曾经以您为目标。 /ptom
+显示谁正在或曾经以您为目标。 /ptom
 Copies 1 below the cheapest offer to your clipboard when you check marketboard prices. /penny help
 查看市场价格时，将最便宜的报价减1复制到剪贴板。 /penny 帮助
 A ping display plugin for Dalamud.
@@ -54,12 +54,12 @@ Quickly price check your items.
 快速价格检查您的物品。
 A plugin designed to provide a simple, customizable and always available interface for chat commands<br>or other plugins to alleviate the need for using macros and hotbar space to achieve similar results.<br><br>The plugin should initially appear as a small box on the bottom center of the game window.
 旨在为聊天命令提供简单，可自定义且始终可用的界面的插件<br>或其他插件，以减轻使用宏和快捷栏空间来获得相似结果的需求。<br><br>该插件最初应显示为 游戏窗口底部中心的小框。
-Cooldown and Status tracking.<br>/remindme
-冷却和状态跟踪。<br>/remindme
+Cooldown and Status tracking.
+冷却和状态跟踪。
 A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.<br>All changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)
 改善游戏体验小工具集合。 旨在改善体验，而无需进行大幅度更改。<br>所有更改都是可切换的，默认情况下禁用所有功能。 访问代码仓库以获取完整的调整列表。 （下面的地球图标）
 Adds an indicator of when it's safe to move while casting
-添加指示符，指示何时可以安全滑步
+添加指示符，指示何时可以安全滑步。
 A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes.
 一个Dalamud插件，允许从任何地方进行音量控制，包括调音和过场动画。
 Chat Commands for teleporting to Aetherytes. /tp for help
@@ -74,3 +74,7 @@ This plugin condenses combos and mutually exclusive abilities onto a single butt
 该插件将连击和相互排斥的能力凝聚到一个按钮上。
 Adds an overlay to support IME in dalamud input.
 给 dalamud 的输入框添加一个输入法支持窗口。
+Adds commands to simplify gathering by finding nodes and their locations via item name and a UI to keep track of special node uptimes.
+通过采集物的名字和 UI 添加一个命令来简化采集点位置和冷却时间。
+Names are dumb, use icons instead.
+名字好蠢，用职业图标替换名牌。
