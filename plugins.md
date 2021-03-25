@@ -26,7 +26,7 @@
 | Bluefissure | MapLinker | 在聊天中自动记录地图链接，并在以后检索。 |
 | fmauNeko | Market board | 浏览市场板。 /pmb 打开。 |
 | daemitus | ezMiniCactpot | 在仙人微彩中突出显示推荐的下一步行动。 |
-| attick | Mouseover Action | 该插件允许类似宏的操作使用，而没有任何宏延迟。 |
+| attick | Mouseover Action | This plugin allows for macro-like use of actions without any macro delay. /pmoaction to open UI |
 | luminisward | MP Timer | XivLauncher/Dalamud 的黑魔回蓝计时器。 |
 | meli | Orchestrion Plugin | 添加了一个简单的前端，用于浏览和更改游戏中的背景音乐。 /porch 打开 |
 | goat | OwO | 该插件将聊天框火星文化。 |
