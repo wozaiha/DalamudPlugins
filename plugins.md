@@ -33,7 +33,7 @@
 | ascclemens | Peeping Tom | 显示谁正在或曾经以您为目标。 /ptom |
 | tesu | Penny Pincher | 查看市场价格时，将最便宜的报价减1复制到剪贴板。 /penny 帮助 |
 | karashiiro | PingPlugin | Dalamud 的 ping 显示插件。 |
-| Haplo064 | Pixel Perfect Plugin | 添加一个 hitbox 指示器。 |
+| Haplo064 | Pixel Perfect | 添加一个 hitbox 指示器。 |
 | kalilistic | PriceCheck | 快速价格检查您的物品。 |
 | UnknownX | QoL Bar | 旨在为聊天命令提供简单，可自定义且始终可用的界面的插件<br>或其他插件，以减轻使用宏和快捷栏空间来获得相似结果的需求。<br><br>该插件最初应显示为 游戏窗口底部中心的小框。 |
 | Caraxi | Remind Me | 冷却和状态跟踪。 |
