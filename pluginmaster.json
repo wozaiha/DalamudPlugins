@@ -320,6 +320,27 @@
     "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/JobIcons/latest.zip"
   },
   {
+    "Author": "kalilistic",
+    "Name": "Kapture",
+    "Description": "Track your loot.",
+    "InternalName": "Kapture",
+    "AssemblyVersion": "1.0.54",
+    "RepoUrl": "https://github.com/kalilistic/Dalamud.Kapture",
+    "Tags": [
+      "loot",
+      "track"
+    ],
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "2",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1616897026",
+    "DownloadLinkInstall": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/Kapture/latest.zip",
+    "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/Kapture/latest.zip",
+    "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/Kapture/latest.zip"
+  },
+  {
     "Author": "NR",
     "Name": "LogFilter",
     "InternalName": "LogFilter",

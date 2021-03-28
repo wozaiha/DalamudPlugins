@@ -21,6 +21,7 @@
 | Bluefissure | IMEPlugin | 给 dalamud 的输入框添加一个输入法支持窗口。 |
 | Caraxi | Item Search Plugin | 搜索物品。 键入 /xlitem 以打开搜索窗口。 |
 | haplo, daemitus | JobIcons | 名字好蠢，用职业图标替换名牌。 |
+| kalilistic | Kapture | Track your loot. |
 | NR | LogFilter | 关闭屏蔽过滤器。 |
 | Caraxi | MacroRecursion | 从宏执行宏。 /runmacro ## [shared] [line] |
 | Bluefissure | MapLinker | 在聊天中自动记录地图链接，并在以后检索。 |
