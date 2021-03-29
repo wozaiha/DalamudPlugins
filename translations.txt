@@ -34,8 +34,8 @@ Browse the market board. /pmb to open.
 浏览市场板。 /pmb 打开。
 Highlights recommended tiles in Mini Cactpot for your next move.
 在仙人微彩中突出显示推荐的下一步行动。
-This plugin allows for macro-like use of actions without any macro delay.
-该插件允许类似宏的操作使用，而没有任何宏延迟。
+This plugin allows for macro-like use of actions without any macro delay. /pmoaction to open UI
+该插件允许类似宏的操作使用，而没有任何宏延迟。/pmoaction 打开设置
 BLM MP Timer for XivLauncher/Dalamud.
 XivLauncher/Dalamud 的黑魔回蓝计时器。
 Adds a simple front-end for browsing and changing the in-game BGM.  /porch to open
@@ -78,3 +78,7 @@ Adds commands to simplify gathering by finding nodes and their locations via ite
 通过采集物的名字和 UI 添加一个命令来简化采集点位置和冷却时间。
 Names are dumb, use icons instead.
 名字好蠢，用职业图标替换名牌。
+Tourist adds a window to assist with the sightseeing log.<br><br>- Show when sightseeing log vistas are available<br>- Add markers for ARR vistas<br>- Open vista locations on your map<br>- Hide already completed or unavailable vistas<br>- Show the command needed for each vista
+Tourist 会添加一个窗口来辅助观光日志。<br><br>-在有观光日志视景时显示<br>-在ARR视景中添加标记<br>-在地图上打开视景位置<br>-隐藏已完成或不可用的视景<br>-显示每个远景所需的命令
+Track your loot.
+记录Roll点。
