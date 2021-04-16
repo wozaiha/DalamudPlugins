@@ -24,7 +24,7 @@
 | Caraxi | Item Search | 搜索物品。 键入 /xlitem 以打开搜索窗口。 |
 | haplo, daemitus | JobIcons | 名字好蠢，用职业图标替换名牌。 |
 | kalilistic | Kapture | 记录Roll点。 |
-| Caraxi | MacroRecursion | 从宏执行宏。 /runmacro ## [shared] [line] |
+| Caraxi | Macro Chain | Allows macros to continue into the next macro |
 | Bluefissure | MapLinker | 在聊天中自动记录地图链接，并在以后检索。 |
 | fmauNeko | Market board | 浏览市场板。 /pmb 打开。 |
 | daemitus | ezMiniCactpot | 在仙人微彩中突出显示推荐的下一步行动。 |

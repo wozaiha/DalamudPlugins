@@ -366,20 +366,20 @@
   },
   {
     "Author": "Caraxi",
-    "Name": "MacroRecursion",
-    "Description": "Execute macros from macros. /runmacro ## [shared] [line]",
+    "Name": "Macro Chain",
+    "Description": "Allows macros to continue into the next macro",
     "InternalName": "MacroRecursion",
-    "AssemblyVersion": "1.1.2.0",
+    "AssemblyVersion": "2.0.1.0",
     "RepoUrl": "https://github.com/Caraxi/MacroRecursion",
     "ApplicableVersion": "any",
     "Tags": [
       "Macro"
     ],
-    "DalamudApiLevel": 1,
+    "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1606969814",
+    "LastUpdate": "1618603473",
     "DownloadLinkInstall": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/MacroRecursion/latest.zip",
     "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/MacroRecursion/latest.zip",
     "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/MacroRecursion/latest.zip"
