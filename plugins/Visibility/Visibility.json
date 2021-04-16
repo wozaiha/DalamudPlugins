@@ -3,8 +3,8 @@
     "Name": "Visibility",
     "Description": "This plugin controls the visibility of players, pets, minions and chocobos.",
     "InternalName": "Visibility",
-    "AssemblyVersion": "1.0.1.2",
+    "AssemblyVersion": "1.0.1.3",
     "ApplicableVersion": "any",
     "RepoUrl":"https://github.com/SheepGoMeh/VisibilityPlugin",
-    "DalamudApiLevel": 1
+    "DalamudApiLevel": 3
 }
