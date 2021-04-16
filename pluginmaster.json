@@ -789,13 +789,17 @@
     "Description": "Turn off profanity filter.",
     "RepoUrl": "https://github.com/PrototypeSeiren/StarlightBreaker",
     "Tags": [],
+    "InternalName": "StarlightBreaker",
+    "AssemblyVersion": "1.0.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": null,
-    "DownloadLinkInstall": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins//latest.zip",
-    "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins//latest.zip",
-    "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins//latest.zip"
+    "LastUpdate": "1618594273",
+    "DownloadLinkInstall": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/StarlightBreaker/latest.zip",
+    "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/StarlightBreaker/latest.zip",
+    "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/StarlightBreaker/latest.zip"
   },
   {
     "Author": "Pohky",
