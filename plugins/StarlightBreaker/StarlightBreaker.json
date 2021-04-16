@@ -3,5 +3,9 @@
   "Author": "-",
   "Description": "Turn off profanity filter.",
   "RepoUrl": "https://github.com/PrototypeSeiren/StarlightBreaker",
-  "Tags": []
+  "Tags": [],
+  "InternalName": "StarlightBreaker",
+  "AssemblyVersion": "1.0.0.0",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 3
 }
