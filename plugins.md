@@ -17,7 +17,7 @@
 | Caraxi | FPS Plugin | Display game FPS. |
 | Ottermandias | GatherBuddy | 通过采集物的名字和 UI 添加一个命令来简化采集点位置和冷却时间。 |
 | ascclemens | Globetrotter | Automatically shows where treasure maps are located. |
-| ascclemens | Good Memory | 在物品提示中添加一个指示器，以显示您是否已获得该物品。 |
+| ascclemens | Good Memory | Adds an indicator in item tooltips to show whether you have acquired that item.<br><br>This indicator is in the item's description near the bottom and only appears for<br>items that are unlockable, such as orchestrion rolls, minions, etc. |
 | perchbird | Housemate | Displays information about housing fixtures and objects.<br>/housemate opens the UI. |
 | ascclemens | HudSwap | 自动为您更改 HUD 布局。 /phudswap |
 | Bluefissure | IMEPlugin | 给 dalamud 的输入框添加一个输入法支持窗口。 |
