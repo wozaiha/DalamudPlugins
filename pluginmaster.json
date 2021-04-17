@@ -719,18 +719,18 @@
     "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/RezPls/latest.zip"
   },
   {
-    "Author": "Caraxi",
+    "Author": "Caraxi, LittleNightmaare, Tsubasahane",
     "Name": "Simple Tweaks",
     "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)",
     "InternalName": "SimpleTweaksPlugin",
-    "AssemblyVersion": "1.4.0.3",
+    "AssemblyVersion": "1.4.0.4",
     "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1618548276",
+    "LastUpdate": "1618673802",
     "DownloadLinkInstall": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/SimpleTweaksPlugin/latest.zip",
     "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/SimpleTweaksPlugin/latest.zip",
     "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/SimpleTweaksPlugin/latest.zip"
