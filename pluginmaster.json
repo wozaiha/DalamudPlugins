@@ -144,16 +144,16 @@
     "Name": "Discord Rich Presence",
     "Description": "This plugin allows you to set up chat triggers.",
     "InternalName": "Dalamud.RichPresence",
-    "AssemblyVersion": "1.5.0.0",
+    "AssemblyVersion": "1.6.0.0",
     "ApplicableVersion": "any",
     "Tags": [
       "Discord"
     ],
-    "DalamudApiLevel": 2,
+    "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1611533920",
+    "LastUpdate": "1618769603",
     "DownloadLinkInstall": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/Dalamud.RichPresence/latest.zip",
     "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/Dalamud.RichPresence/latest.zip",
     "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/Dalamud.RichPresence/latest.zip"
@@ -579,9 +579,10 @@
   {
     "Author": "karashiiro",
     "Name": "PingPlugin",
-    "Description": "A ping display plugin for Dalamud.",
     "InternalName": "PingPlugin",
-    "AssemblyVersion": "1.11.1.0",
+    "AssemblyVersion": "1.11.5.0",
+    "Description": "A ping display plugin for Dalamud.",
+    "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/karashiiro/PingPlugin",
     "Tags": [
       "ping",
@@ -589,13 +590,12 @@
       "utility",
       "tool"
     ],
-    "ApplicableVersion": "any",
-    "DalamudApplicableVersion": ">=4.9.8.3",
-    "DalamudApiLevel": "1",
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1615483762",
+    "LastUpdate": "1618769603",
     "DownloadLinkInstall": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/PingPlugin/latest.zip",
     "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/PingPlugin/latest.zip",
     "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/PingPlugin/latest.zip"
