@@ -6,15 +6,14 @@ on:
 jobs:
   generate:
     name: Regenerate PluginMaster
-    runs-on: windows-2019
+    ubuntu-latest
     steps:
-      - name: Extract branch name
-        shell: bash
-        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
-        id: extract_branch
-      - uses: actions/checkout@v1
-      - name: Run generator
-        run: .\Make-PluginMaster.ps1
+      - uses: actions/setup-python@v2
+        with:
+            python-version: '3.8'
+      - uses: actions/checkout@v2
+      - name: Generate PluginMaster
+        run: python generate_pluginmaster.py
       - name: Commit files
         continue-on-error: true
         run: |
