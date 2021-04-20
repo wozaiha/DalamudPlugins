@@ -27,7 +27,7 @@
 | SoundSetter | karashiiro | 一个Dalamud插件，允许从任何地方进行音量控制，包括调音和过场动画。 |
 | OwO | goat | 这个插件将你的聊天框变成火星文。 |
 | Teleporter | Pohky | 传送到水晶的聊天命令。 /tp 寻求帮助 |
-| Simple Tweaks | Caraxi, LittleNightmaare, Tsubasahane | 改善游戏体验小工具集合。 旨在改善体验，而无需进行大幅度更改。<br>所有更改都是可切换的，默认情况下禁用所有功能。 访问代码仓库以获取完整的调整列表。 （下面的地球图标） |
+| Simple Tweaks | Caraxi, LittleNightmaare, Tsubasahane, Bite Ye | 改善游戏体验小工具集合。 旨在改善体验，而无需进行大幅度更改。<br>所有更改都是可切换的，默认情况下禁用所有功能。 访问代码仓库以获取完整的调整列表。 （下面的地球图标） |
 | Discord Rich Presence | goat | 该插件可让您设置 Discord 富文本在线状态。 |
 | Browser Host | ackwell | Dalamud 插件，用于游戏内浏览器渲染。 类似于 OverlayPlugin，但它内置于游戏之中。<br>使用下面的设置按钮或 /pbrowser 命令进行配置。 |
 | VFXEditor | ocealot | VFX 编辑与查看，使用 /vfxedit 打开。 |
