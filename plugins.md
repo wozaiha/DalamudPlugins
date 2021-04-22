@@ -9,7 +9,7 @@
 | Mouseover Action | attick | 该插件允许类似宏的操作使用技能，而没有任何宏延迟。/pmoaction 打开设置 |
 | Orchestrion Plugin | meli | 一个简单的方式浏览和更改游戏中的背景音乐。 /porch 打开 |
 | MP Timer | luminisward | XivLauncher/Dalamud 的黑魔回蓝计时器。 |
-| Visibility | SheepGoMeh | 该插件控制玩家，宠物和陆行鸟的可见性。 |
+| Visibility | Dragon |  |
 | MapLinker | Bluefissure | 自动记录聊天中的地图标记并在之后查询。 |
 | HudSwap | ascclemens | 自动为您更改 HUD 布局。 /phudswap |
 | Waymark Preset Plugin | PunishedPineapple | 管理标点预设。 使用 /pwaymark help 以获取更多信息。 |
