@@ -18,7 +18,50 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/Kapture/Kapture.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/Kapture/Kapture.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1619165110"
+        "LastUpdated": "1619165534"
+    },
+    {
+        "Author": "Caraxi, LittleNightmaare, Bite Ye,+ed by Tsubasahane",
+        "Name": "Simple Tweaks+",
+        "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)",
+        "InternalName": "SimpleTweaksPlugin",
+        "AssemblyVersion": "1.4.1.0",
+        "RepoUrl": "https://github.com/wozaiha/SimpleTweaksPlugin",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 3,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/SimpleTweaksPlugin/SimpleTweaksPlugin.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/SimpleTweaksPlugin/SimpleTweaksPlugin.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/SimpleTweaksPlugin/SimpleTweaksPlugin.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1619165534"
+    },
+    {
+        "Author": "Dragon, edited by Tsubasa",
+        "Name": "Visibility+",
+        "Description": "\u9690\u85cf\u89d2\u8272&CP&\u5ba0\u7269&\u53ec\u5524\u517d\uff0c\u66f4\u65b0\u4e86\u53ef\u7528\u7684\u56fd\u670d\u9ed1\u767d\u540d\u5355",
+        "InternalName": "Visibility",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/SheepGoMeh/VisibilityPlugin",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Blacklist",
+            "Void",
+            "VoidList",
+            "Ban",
+            "Hide",
+            "Visibility",
+            "QoL"
+        ],
+        "DalamudApiLevel": 3,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/Visibility/Visibility.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/Visibility/Visibility.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/Visibility/Visibility.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1619165534"
     },
     {
         "Author": "Haplo064, Edited by Tsubasa",
@@ -40,23 +83,6 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/PixelPerfect/PixelPerfect.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/PixelPerfect/PixelPerfect.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1619163949"
-    },
-    {
-        "Author": "Caraxi, LittleNightmaare, Bite Ye,+ed by Tsubasahane",
-        "Name": "Simple Tweaks+",
-        "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)",
-        "InternalName": "SimpleTweaksPlugin",
-        "AssemblyVersion": "1.4.1.0",
-        "RepoUrl": "https://github.com/wozaiha/SimpleTweaksPlugin",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/SimpleTweaksPlugin/SimpleTweaksPlugin.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/SimpleTweaksPlugin/SimpleTweaksPlugin.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/SimpleTweaksPlugin/SimpleTweaksPlugin.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1619164785"
+        "LastUpdated": "1619165534"
     }
 ]
