@@ -1,0 +1,11 @@
+{
+	"Author": "Dragon, edited by Tsubasa",
+	"Name": "Visibility+",
+	"InternalName": "Visibility",
+	"Description": "隐藏角色&CP&宠物&召唤兽，更新了可用的国服黑白名单",
+	"Tags": ["Blacklist", "Void", "VoidList", "Ban", "Hide", "Visibility", "QoL"],
+	"RepoUrl": "https://github.com/SheepGoMeh/VisibilityPlugin",
+	"AssemblyVersion": "1.0.0.0",
+	"ApplicableVersion": "any",
+	"DalamudApiLevel": 3
+}
