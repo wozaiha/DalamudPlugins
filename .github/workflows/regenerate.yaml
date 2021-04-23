@@ -1,6 +1,5 @@
 name: Regenerate PluginMaster
 on: 
-  page_build:
   workflow_dispatch:
 
 jobs:
@@ -25,4 +24,4 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ steps.extract_branch.outputs.branch }}
+          branch: 'CustomRepo'

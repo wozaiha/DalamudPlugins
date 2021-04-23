@@ -6,7 +6,7 @@ from sys import argv
 from os.path import getmtime
 from zipfile import ZipFile, ZIP_DEFLATED
 
-DOWNLOAD_URL = 'https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/{plugin_name}/latest.zip'
+DOWNLOAD_URL = 'https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/{plugin_name}/latest.zip'
 
 DEFAULTS = {
     'IsHide': False,
@@ -47,7 +47,7 @@ def main():
     last_updated()
 
     # update the Markdown
-    update_md(master)
+    #update_md(master)
 
 def extract_manifests():
     manifests = []
