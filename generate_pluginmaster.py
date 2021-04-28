@@ -93,7 +93,7 @@ def last_updated():
         master = json.load(f)
 
     for plugin in master:
-        latest = 'plugins/{plugin["InternalName"]}/{plugin["InternalName"]}.zip'
+        latest = f'plugins/{plugin["InternalName"]}/{plugin["InternalName"]}.zip'
         modified = int(getmtime(latest))
 
         if 'LastUpdated' not in plugin or modified != int(plugin['LastUpdated']):
