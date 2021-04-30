@@ -18,14 +18,14 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/Kapture/Kapture.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/Kapture/Kapture.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1619583107"
+        "LastUpdated": "1619783878"
     },
     {
         "Author": "Caraxi, LittleNightmaare, Bite Ye,+ed by Tsubasahane",
         "Name": "Simple Tweaks+",
-        "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)",
+        "Description": "\u5927\u6982\u80fd\u85cf\u70b9\u540d\u5b57\u2026\u2026\u5427",
         "InternalName": "SimpleTweaksPlugin",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.0.1",
         "RepoUrl": "https://github.com/wozaiha/SimpleTweaksPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
@@ -35,7 +35,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/SimpleTweaksPlugin/SimpleTweaksPlugin.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/SimpleTweaksPlugin/SimpleTweaksPlugin.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1619583107"
+        "LastUpdated": "1619783878"
     },
     {
         "Author": "Dragon, edited by Tsubasa",
@@ -61,7 +61,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/Visibility/Visibility.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/Visibility/Visibility.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1619583107"
+        "LastUpdated": "1619783878"
     },
     {
         "Author": "Haplo064, Edited by Tsubasa",
@@ -83,6 +83,6 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/PixelPerfect/PixelPerfect.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/PixelPerfect/PixelPerfect.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1619583107"
+        "LastUpdated": "1619783878"
     }
 ]
