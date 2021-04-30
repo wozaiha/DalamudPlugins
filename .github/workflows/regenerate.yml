@@ -1,6 +1,7 @@
 name: Regenerate PluginMaster
 on: 
   workflow_dispatch:
+  push:
 
 jobs:
   generate:
