@@ -48,7 +48,7 @@
 | Teleporter | Pohky | 传送到水晶的聊天命令。 /tp 寻求帮助 |
 | Peeping Tom | ascclemens | 显示谁正在或者曾经以你为目标。 |
 | Browser Host | ackwell | Dalamud 插件，用于游戏内浏览器渲染。 类似于 OverlayPlugin，但它内置于游戏之中。<br>使用下面的设置按钮或 /pbrowser 命令进行配置。 |
-| Damage Info Plugin | perchbird | 更丰富的战斗伤害UI。 /dmginfo 显示配置。 |
+| Damage Info Plugin | perchbird |  |
 | Macro Chain | Caraxi | 允许宏运行下一个宏 |
 | Good Memory | ascclemens | 在物品信息中添加一个指示器，以显示您是否已获得该物品。<br>这个指示器在物品信息栏靠近底部的位置，仅对可解锁的物品有效，例如乐谱、坐骑、宠物等等。 |
 | Mouseover Action | attick | 该插件允许类似宏的操作使用技能，而没有任何宏延迟。/pmoaction 打开设置 |
