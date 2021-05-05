@@ -1,9 +1,9 @@
 ﻿{
-    "Author":  "Caraxi, LittleNightmaare, Bite Ye,+ed by Tsubasahane",
+    "Author":  "Caraxi, LittleNightmaare, Bite Ye,'+'ed by Tsubasahane",
     "Name":  "Simple Tweaks+",
 	"InternalName": "SimpleTweaksPlugin",
-    "Description":  "大概能藏点名字……吧",
-    "AssemblyVersion":  "1.0.0.1",
+    "Description":  "大概能改改小队列表……吧",
+    "AssemblyVersion":  "1.0.0.2",
     "RepoUrl":  "https://github.com/wozaiha/SimpleTweaksPlugin",
     "ApplicableVersion":  "any",
     "DalamudApiLevel":  3
