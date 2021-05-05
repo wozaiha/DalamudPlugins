@@ -18,14 +18,14 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/Kapture/Kapture.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/Kapture/Kapture.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1619784832"
+        "LastUpdated": "1620203440"
     },
     {
-        "Author": "Caraxi, LittleNightmaare, Bite Ye,+ed by Tsubasahane",
+        "Author": "Caraxi, LittleNightmaare, Bite Ye,'+'ed by Tsubasahane",
         "Name": "Simple Tweaks+",
-        "Description": "\u5927\u6982\u80fd\u85cf\u70b9\u540d\u5b57\u2026\u2026\u5427",
+        "Description": "\u5927\u6982\u80fd\u6539\u6539\u5c0f\u961f\u5217\u8868\u2026\u2026\u5427",
         "InternalName": "SimpleTweaksPlugin",
-        "AssemblyVersion": "1.0.0.1",
+        "AssemblyVersion": "1.0.0.2",
         "RepoUrl": "https://github.com/wozaiha/SimpleTweaksPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
@@ -35,7 +35,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/SimpleTweaksPlugin/SimpleTweaksPlugin.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/SimpleTweaksPlugin/SimpleTweaksPlugin.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1619784832"
+        "LastUpdated": "1620203440"
     },
     {
         "Author": "Dragon, edited by Tsubasa",
@@ -61,7 +61,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/Visibility/Visibility.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/Visibility/Visibility.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1619784832"
+        "LastUpdated": "1620203440"
     },
     {
         "Author": "Haplo064, Edited by Tsubasa",
@@ -83,6 +83,6 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/PixelPerfect/PixelPerfect.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/PixelPerfect/PixelPerfect.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1619784832"
+        "LastUpdated": "1620203440"
     }
 ]
