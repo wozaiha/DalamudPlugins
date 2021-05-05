@@ -15,7 +15,6 @@
 | SoundSetter | karashiiro | 一个Dalamud插件，允许从任何地方进行音量控制，包括调音和过场动画。 |
 | Tourist | ascclemens | Tourist 添加一个窗口来辅助探索日志。<br><br>- 显示何时探索点出现<br>- 给2.0的探索点添加指示<br>- 在地图上显示探索点位置<br>- 隐藏已完成的探索点<br>- 显示探索所需命令 |
 | Globetrotter | ascclemens | 自动显示藏宝图的位置。 |
-| Custom Commands and Macro Macros | jkcclemens | 该命令允许您创建自定义命令（尚未实现）和不受限制的宏。 |
 | SlideCast | Haplo064 | 添加指示符，指示何时可以安全滑步。 |
 | QoL Bar | UnknownX | 一个给聊天命令或其他插件、宏等等提供简单、可定制界面的插件<br>最开始这个插件会显示为界面下方的一个小方框。 |
 | PingPlugin | karashiiro | Dalamud 的 ping 显示插件。 |
@@ -34,6 +33,7 @@
 | Housemate | perchbird | 显示有关房屋装置和物品的信息。<br>/housemate 打开 UI。 |
 | Simple Tweaks | Caraxi, LittleNightmaare, Tsubasahane, Bite Ye | 改善游戏体验小工具集合。 旨在改善体验，而无需进行大幅度更改。<br>所有更改都是可切换的，默认情况下禁用所有功能。 访问代码仓库以获取完整的调整列表。 （下面的地球图标） |
 | JobIcons | haplo, daemitus | 名字好蠢，用职业图标替换名牌。 |
+| Fancy Loading Screens | goat |  |
 | FPS Plugin | Caraxi | 显示游戏FPS。 |
 | ChatCoordinates | kij | 该插件可将坐标从聊天转换为游戏内标点，"/coord help" 或 "/ctp help" 查看帮助信息。 |
 | Waymark Preset Plugin | PunishedPineapple | 管理标点预设。 使用 /pwaymark help 以获取更多信息。 |
