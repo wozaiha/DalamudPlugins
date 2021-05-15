@@ -48,5 +48,6 @@
     "This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu": "\u8be5\u63d2\u4ef6\u5c06\u8fde\u51fb\u548c\u76f8\u4e92\u6392\u65a5\u7684\u80fd\u529b\u51dd\u805a\u5230\u4e00\u4e2a\u6309\u94ae\u4e0a\u3002",
     "Allows you to hide players, pets chocobos and minions.\nIncludes VoidList, which is a better blacklist.\nAccessible via /pvis\nMore information available via /xlhelp": "",
     "Configurable UI options for extra damage information. /dmginfo displays the config.": "",
-    "This plugin shows the destination zone's concept art while loading.": ""
+    "This plugin shows the destination zone's concept art while loading.": "",
+    "Allows you to change your game window title": ""
 }

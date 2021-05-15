@@ -18,7 +18,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/Kapture/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/Kapture/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "ascclemens",
@@ -35,7 +35,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/PeepingTom/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/PeepingTom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "Bluefissure",
@@ -58,7 +58,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/IMEPlugin/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/IMEPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "Caraxi",
@@ -75,7 +75,24 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/RemindMe/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/RemindMe/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
+    },
+    {
+        "Author": "Azure Gem",
+        "Name": "Window Title Changer",
+        "Description": "",
+        "InternalName": "WinTitle",
+        "AssemblyVersion": "1.0.0.1",
+        "RepoUrl": "https://github.com/rreminy/FFXIV.WinTitle",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 3,
+        "DownloadLinkInstall": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/WinTitle/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/WinTitle/latest.zip",
+        "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/WinTitle/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "tesu",
@@ -98,7 +115,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/PennyPincher/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/PennyPincher/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "kalilistic",
@@ -120,7 +137,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/PriceCheck/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/PriceCheck/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "-",
@@ -138,7 +155,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/StarlightBreaker/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/StarlightBreaker/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "haplo, daemitus",
@@ -155,14 +172,14 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/JobIcons/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/JobIcons/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "goat",
         "Name": "Fancy Loading Screens",
         "Description": "",
         "InternalName": "Dalamud.LoadingImage",
-        "AssemblyVersion": "1.0.0.1",
+        "AssemblyVersion": "1.0.0.2",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
         "DownloadLinkInstall": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/Dalamud.LoadingImage/latest.zip",
@@ -171,7 +188,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/Dalamud.LoadingImage/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/Dalamud.LoadingImage/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "ackwell",
@@ -193,7 +210,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/BrowserHost.Plugin/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/BrowserHost.Plugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "kalilistic",
@@ -215,7 +232,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/PlayerTrack/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/PlayerTrack/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "Haplo064",
@@ -240,7 +257,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/SlideCast/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/SlideCast/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "luminisward",
@@ -257,7 +274,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/MPTimer/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/MPTimer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "fmauNeko",
@@ -274,7 +291,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/MarketBoardPlugin/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/MarketBoardPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "kij",
@@ -290,7 +307,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/ChatCoordinates/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/ChatCoordinates/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "Ottermandias",
@@ -307,7 +324,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/RezPls/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/RezPls/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "ascclemens",
@@ -324,7 +341,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/Globetrotter/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/Globetrotter/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "Dragon",
@@ -350,7 +367,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/Visibility/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/Visibility/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "Avaflow",
@@ -373,7 +390,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/OopsAllLalafells/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/OopsAllLalafells/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "attick",
@@ -393,7 +410,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/XIVCombo/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/XIVCombo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "Caraxi",
@@ -413,7 +430,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/MacroRecursion/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/MacroRecursion/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "UnknownX",
@@ -430,7 +447,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/QoLBar/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/QoLBar/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "meli",
@@ -451,7 +468,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/orchestrion/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/orchestrion/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "ascclemens",
@@ -468,7 +485,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/HudSwap/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/HudSwap/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "perchbird",
@@ -485,7 +502,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/Housemate/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/Housemate/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "Ottermandias",
@@ -502,7 +519,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/GatherBuddy/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/GatherBuddy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "Haplo064",
@@ -524,7 +541,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/PixelPerfect/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/PixelPerfect/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "attick",
@@ -545,7 +562,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/MOAction/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/MOAction/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "perchbird",
@@ -567,7 +584,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/DamageInfoPlugin/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/DamageInfoPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "Pohky",
@@ -584,7 +601,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/TeleporterPlugin/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/TeleporterPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "ascclemens",
@@ -600,7 +617,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/Tourist/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/Tourist/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "ascclemens",
@@ -617,7 +634,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/GoodMemory/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/GoodMemory/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "karashiiro",
@@ -640,7 +657,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/SoundSetter/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/SoundSetter/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "Haplo064",
@@ -663,7 +680,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/AccurateCountDown/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/AccurateCountDown/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "Caraxi, LittleNightmaare, Tsubasahane, Bite Ye",
@@ -680,7 +697,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/SimpleTweaksPlugin/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/SimpleTweaksPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "Ms.Tress",
@@ -702,7 +719,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/AetherSense/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/AetherSense/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "Caraxi",
@@ -719,7 +736,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/ItemSearchPlugin/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/ItemSearchPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "Haplo064",
@@ -743,7 +760,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/ChatBubbles/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/ChatBubbles/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "karashiiro",
@@ -766,7 +783,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/PingPlugin/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/PingPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "ocealot",
@@ -787,7 +804,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/VFXEditor/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/VFXEditor/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "ascclemens",
@@ -803,7 +820,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/BetterPartyFinder/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/BetterPartyFinder/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "attick & perchbird",
@@ -820,7 +837,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/TitleEdit/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/TitleEdit/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "PunishedPineapple",
@@ -843,7 +860,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/WaymarkPresetPlugin/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/WaymarkPresetPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "goat",
@@ -862,7 +879,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/Dalamud.RichPresence/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/Dalamud.RichPresence/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "Bluefissure",
@@ -879,7 +896,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/MapLinker/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/MapLinker/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "goat",
@@ -895,7 +912,7 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/owofy/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/owofy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     },
     {
         "Author": "Caraxi",
@@ -912,6 +929,6 @@
         "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/FPSPlugin/latest.zip",
         "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/FPSPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620950541"
+        "LastUpdated": "1621107740"
     }
 ]

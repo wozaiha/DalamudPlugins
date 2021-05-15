@@ -9,6 +9,7 @@
 | Peeping Tom | ascclemens | 显示谁正在或者曾经以你为目标。 |
 | IMEPlugin | Bluefissure | 给 dalamud 的输入框添加一个输入法支持窗口。 |
 | Remind Me | Caraxi | 技能冷却和状态跟踪。 |
+| Window Title Changer | Azure Gem |  |
 | Penny Pincher | tesu | 查看市场价格时，将最便宜的价格减1复制到剪贴板。 /penny 帮助 |
 | PriceCheck | kalilistic | 快速询价。 |
 | StarlightBreaker | - | 关闭国服聊天敏感内容的屏蔽。 |
