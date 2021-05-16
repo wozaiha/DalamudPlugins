@@ -6,12 +6,12 @@ on:
 jobs:
   generate:
     name: Regenerate PluginMaster
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-18.04
     steps:
       - uses: actions/setup-python@v2
         with:
             python-version: '3.8'
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
       - name: Generate PluginMaster
         run: python generate_pluginmaster.py
       - name: Commit files
