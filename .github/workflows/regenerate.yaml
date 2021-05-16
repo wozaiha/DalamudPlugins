@@ -21,7 +21,7 @@ jobs:
           git config --local user.name "GitHub Action"
           git commit -m "Regenerate PluginMaster" -a
       - name: Push changes
-        continue-on-error: true
+        continue-on-error: false
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
