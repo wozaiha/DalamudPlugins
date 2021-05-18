@@ -1,10 +1,10 @@
 {
-  "Author": "luminisward",
+  "Author": "luminisward, Bluefissure",
   "Name": "MP Timer",
   "Description": "BLM MP Timer for XivLauncher/Dalamud.",
   "InternalName": "MPTimer",
-  "AssemblyVersion": "1.0.0.0",
+  "AssemblyVersion": "1.0.1.0",
   "RepoUrl": "https://github.com/luminisward/MPTimer",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 1
+  "DalamudApiLevel": 3
 }
