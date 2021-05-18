@@ -8,7 +8,7 @@
 | Aether Sense (18+) | Ms.Tress | 借助集成的成人玩具专用硬件，将您的游戏体验提升为游戏愉悦。 需要Buttplug.io库服务器，例如 Intiface Desktop：https://intiface.com/desktop/ |
 | Macro Chain | Caraxi | 允许宏运行下一个宏 |
 | Browser Host | ackwell | Dalamud 插件，用于游戏内浏览器渲染。 类似于 OverlayPlugin，但它内置于游戏之中。<br>使用下面的设置按钮或 /pbrowser 命令进行配置。 |
-| MP Timer | luminisward | XivLauncher/Dalamud 的黑魔回蓝计时器。 |
+| MP Timer | luminisward, Bluefissure | XivLauncher/Dalamud 的黑魔回蓝计时器。 |
 | Tourist | ascclemens | Tourist 添加一个窗口来辅助探索日志。<br><br>- 显示何时探索点出现<br>- 给2.0的探索点添加指示<br>- 在地图上显示探索点位置<br>- 隐藏已完成的探索点<br>- 显示探索所需命令 |
 | Visibility | Dragon |  |
 | Fancy Loading Screens | goat |  |
