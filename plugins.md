@@ -6,8 +6,8 @@
 | 插件名 | 作者 | 简介 |
 |---------------|---------------|-----------------|
 | HudSwap | ascclemens | 自动为您更改 HUD 布局。 /phudswap |
-| Fancy Loading Screens | goat |  |
-| EasyEyes | ocealot |  |
+| Fancy Loading Screens | goat | 该插件在过图时显示目标区域的漂亮图。 |
+| EasyEyes | ocealot | 隐藏过于亮或者特定的特效。 |
 | Remind Me | Caraxi | 技能冷却和状态跟踪。 |
 | MapLinker | Bluefissure | 自动记录聊天中的地图标记并在之后查询。 |
 | Market board | fmauNeko | 查询市场板。/pmb 打开 |
@@ -25,7 +25,7 @@
 | Penny Pincher | tesu | 查看市场价格时，将最便宜的价格减1复制到剪贴板。 /penny 帮助 |
 | Orchestrion Plugin | meli | 一个简单的方式浏览和更改游戏中的背景音乐。 /porch 打开 |
 | ChatCoordinates | kij | 该插件可将坐标从聊天转换为游戏内标点，"/coord help" 或 "/ctp help" 查看帮助信息。 |
-| Window Title Changer | Azure Gem |  |
+| Window Title Changer | Azure Gem | 改变游戏窗口标题。 |
 | QoL Bar | UnknownX | 一个给聊天命令或其他插件、宏等等提供简单、可定制界面的插件<br>最开始这个插件会显示为界面下方的一个小方框。 |
 | Visibility | Dragon |  |
 | Macro Chain | Caraxi | 允许宏运行下一个宏 |
@@ -47,7 +47,7 @@
 | PingPlugin | karashiiro | Dalamud 的 ping 显示插件。 |
 | MP Timer | luminisward, Bluefissure | XivLauncher/Dalamud 的黑魔回蓝计时器。 |
 | StarlightBreaker | - | 关闭国服聊天敏感内容的屏蔽。 |
-| Damage Info Plugin | perchbird |  |
+| Damage Info Plugin | perchbird | 自定义UI提供额外的伤害信息。 /dmginfo 显示配置。 |
 | VFXEditor | ocealot | VFX 编辑与查看，使用 /vfxedit 打开。 |
 | Waymark Preset Plugin | PunishedPineapple | 管理标点预设。 使用 /pwaymark help 以获取更多信息。 |
 | Good Memory | ascclemens | 在物品信息中添加一个指示器，以显示您是否已获得该物品。<br>这个指示器在物品信息栏靠近底部的位置，仅对可解锁的物品有效，例如乐谱、坐骑、宠物等等。 |
