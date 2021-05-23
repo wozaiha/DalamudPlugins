@@ -7,6 +7,7 @@
 |---------------|---------------|-----------------|
 | HudSwap | ascclemens | 自动为您更改 HUD 布局。 /phudswap |
 | Fancy Loading Screens | goat |  |
+| EasyEyes | ocealot |  |
 | Remind Me | Caraxi | 技能冷却和状态跟踪。 |
 | MapLinker | Bluefissure | 自动记录聊天中的地图标记并在之后查询。 |
 | Market board | fmauNeko | 查询市场板。/pmb 打开 |

@@ -49,5 +49,6 @@
     "Allows you to hide players, pets chocobos and minions.\nIncludes VoidList, which is a better blacklist.\nAccessible via /pvis\nMore information available via /xlhelp": "",
     "Configurable UI options for extra damage information. /dmginfo displays the config.": "",
     "This plugin shows the destination zone's concept art while loading.": "",
-    "Allows you to change your game window title": ""
+    "Allows you to change your game window title": "",
+    "Hides VFXs which are too bright or distracting": ""
 }
