@@ -47,7 +47,7 @@
 | PingPlugin | karashiiro | Dalamud 的 ping 显示插件。 |
 | MP Timer | luminisward, Bluefissure | XivLauncher/Dalamud 的黑魔回蓝计时器。 |
 | StarlightBreaker | - | 关闭国服聊天敏感内容的屏蔽。 |
-| Damage Info Plugin | perchbird | 自定义UI提供额外的伤害信息。 /dmginfo 显示配置。 |
+| Damage Info | perchbird | 自定义UI提供额外的伤害信息。 /dmginfo 显示配置。 |
 | VFXEditor | ocealot | VFX 编辑与查看，使用 /vfxedit 打开。 |
 | Waymark Preset Plugin | PunishedPineapple | 管理标点预设。 使用 /pwaymark help 以获取更多信息。 |
 | Good Memory | ascclemens | 在物品信息中添加一个指示器，以显示您是否已获得该物品。<br>这个指示器在物品信息栏靠近底部的位置，仅对可解锁的物品有效，例如乐谱、坐骑、宠物等等。 |
