@@ -1,16 +1,11 @@
 {
   "Author": "perchbird",
-  "Name": "Damage Info Plugin",
+  "Name": "Damage Info",
   "InternalName": "DamageInfoPlugin",
-  "AssemblyVersion": "1.3.7.1",
+  "AssemblyVersion": "1.3.7.2",
   "Description": "Configurable UI options for extra damage information. /dmginfo displays the config.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/lmcintyre/DamageInfoPlugin",
-  "Tags": [
-    "damage",
-    "flytext",
-    "UI"
-  ],
   "DalamudApiLevel": 3,
   "LoadPriority": 0
 }
