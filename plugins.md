@@ -27,7 +27,7 @@
 | ChatCoordinates | kij | 该插件可将坐标从聊天转换为游戏内标点，"/coord help" 或 "/ctp help" 查看帮助信息。 |
 | Window Title Changer | Azure Gem | 改变游戏窗口标题。 |
 | QoL Bar | UnknownX | 一个给聊天命令或其他插件、宏等等提供简单、可定制界面的插件<br>最开始这个插件会显示为界面下方的一个小方框。 |
-| Visibility | Dragon |  |
+| Visibility | Dragon | 允许您隐藏玩家、陆行鸟和宠物。<br>同时包括 VoidList，一个更好的黑名单。<br>可通过 /pvis 访问<br>可通过 /xlhelp 获得更多信息 |
 | Macro Chain | Caraxi | 允许宏运行下一个宏 |
 | JobIcons | haplo, daemitus | 名字好蠢，用职业图标替换名牌。 |
 | Discord Rich Presence | goat | 该插件可让您设置 Discord 富文本在线状态。 |
