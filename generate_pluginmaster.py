@@ -82,6 +82,10 @@ def extract_manifests():
     return manifests
 
 def add_extra_fields(manifests):
+    downloadcounts = {}
+    if os.path.exists('downloadcounts.json'):
+        with open('downloadcounts.json', 'r') as f:
+            downloadcounts = json.load(f) 
     for manifest in manifests:
         # generate the download link from the internal assembly name
         manifest['DownloadLinkInstall'] = DOWNLOAD_URL.format(plugin_name=manifest["InternalName"], is_update=False, is_testing=False)
@@ -96,7 +100,7 @@ def add_extra_fields(manifests):
             for k in keys:
                 if k not in manifest:
                     manifest[k] = manifest[source]
-        manifest['DownloadCount'] = 0
+        manifest['DownloadCount'] = downloadcounts.get(manifest["InternalName"], 0)
 
 def write_master(master):
     # write as pretty json
