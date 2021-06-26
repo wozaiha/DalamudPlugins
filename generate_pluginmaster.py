@@ -6,7 +6,9 @@ from sys import argv
 from os.path import getmtime
 from zipfile import ZipFile, ZIP_DEFLATED
 
-DOWNLOAD_URL = 'https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/{plugin_name}/latest.zip'
+# DOWNLOAD_URL = 'https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/{plugin_name}/latest.zip'
+DOWNLOAD_URL = 'https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin={plugin_name}&isUpdate={is_update}&isTesting={is_testing}&branch=cn'
+
 
 DEFAULTS = {
     'IsHide': False,
@@ -80,9 +82,15 @@ def extract_manifests():
     return manifests
 
 def add_extra_fields(manifests):
+    downloadcounts = {}
+    if os.path.exists('downloadcounts.json'):
+        with open('downloadcounts.json', 'r') as f:
+            downloadcounts = json.load(f) 
     for manifest in manifests:
         # generate the download link from the internal assembly name
-        manifest['DownloadLinkInstall'] = DOWNLOAD_URL.format(plugin_name=manifest["InternalName"])
+        manifest['DownloadLinkInstall'] = DOWNLOAD_URL.format(plugin_name=manifest["InternalName"], is_update=False, is_testing=False)
+        manifest['DownloadLinkUpdate'] = DOWNLOAD_URL.format(plugin_name=manifest["InternalName"], is_update=True, is_testing=False)
+        manifest['DownloadLinkTesting'] = DOWNLOAD_URL.format(plugin_name=manifest["InternalName"], is_update=False, is_testing=True)
         # add default values if missing
         for k, v in DEFAULTS.items():
             if k not in manifest:
@@ -92,7 +100,7 @@ def add_extra_fields(manifests):
             for k in keys:
                 if k not in manifest:
                     manifest[k] = manifest[source]
-        manifest['DownloadCount'] = 0
+        manifest['DownloadCount'] = downloadcounts.get(manifest["InternalName"], 0)
 
 def write_master(master):
     # write as pretty json
