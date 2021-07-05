@@ -36,7 +36,7 @@
 | Kapture | kalilistic | 记录Roll点。 |
 | Orchestrion Plugin | meli | 一个简单的方式浏览和更改游戏中的背景音乐。 /porch 打开 |
 | Good Memory | ascclemens | 在物品信息中添加一个指示器，以显示您是否已获得该物品。<br>这个指示器在物品信息栏靠近底部的位置，仅对可解锁的物品有效，例如乐谱、坐骑、宠物等等。 |
-| SkillSwap | ocealot |  |
+| SkillSwap | ocealot | 给 Textools 和 Penumbra 制作技能动画替换 |
 | PriceCheck | kalilistic | 快速询价。 |
 | Item Search | Caraxi | 搜索物品。 /xlitem 打开搜索窗口。 |
 | Peeping Tom | ascclemens | 显示谁正在或者曾经以你为目标。 |
