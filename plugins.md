@@ -51,6 +51,7 @@
 | Globetrotter | ascclemens | 自动显示藏宝图的位置。 |
 | FPS Plugin | Caraxi | 显示游戏FPS。 |
 | IMEPlugin | Bluefissure | 给 dalamud 的输入框添加一个输入法支持窗口。 |
+| DeepDungeonDex | Strati |  |
 | ChatCoordinates | kij | 该插件可将坐标从聊天转换为游戏内标点，"/coord help" 或 "/ctp help" 查看帮助信息。 |
 | Browser Host | ackwell | Dalamud 插件，用于游戏内浏览器渲染。 类似于 OverlayPlugin，但它内置于游戏之中。<br>使用下面的设置按钮或 /pbrowser 命令进行配置。 |
 | Teleporter | Pohky | 传送到水晶的聊天命令。 /tp 寻求帮助 |
