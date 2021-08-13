@@ -5,7 +5,7 @@
 
 | 插件名 | 作者 | 简介 |
 |---------------|---------------|-----------------|
-| DeepDungeonDex | Strati |  |
+| DeepDungeonDex | Strati | 深层迷宫的现场动物寓言。 显示目标怪物的仇恨类型、主观威胁等级、昏迷的脆弱性以及著名机制的总体概述。 威胁等级不可尽信，针对的是单人玩家，并假设对<br>深层地牢机制和正在玩的职业有一般的熟悉。 据我所知，信息是基于众包信息准确无误的，但如果发现任何内容不准确，或者如果您想对未经测试的数据进行报告，请在 GitHub 上提交一个 issue 或在 Deep Dungeons 或 QuickLauncher Discord 服务器中 ping 我。 |
 | Peeping Tom | ascclemens | 显示谁正在或者曾经以你为目标。 |
 | Browser Host | ackwell | Dalamud 插件，用于游戏内浏览器渲染。 类似于 OverlayPlugin，但它内置于游戏之中。<br>使用下面的设置按钮或 /pbrowser 命令进行配置。 |
 | Mouseover Action | attick | 该插件允许类似宏的操作使用技能，而没有任何宏延迟。/pmoaction 打开设置 |
