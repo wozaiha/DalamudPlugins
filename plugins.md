@@ -45,6 +45,7 @@
 | Teleporter | Pohky | 传送到水晶的聊天命令。 /tp 寻求帮助 |
 | Pixel Perfect | Haplo064 | 添加一个 hitbox 指示器。 |
 | RezPls | Ottermandias | 简单显示谁正在复活谁。 |
+| JobBars | ocealot |  |
 | XIV Combo | attick | 该插件将连击和相互排斥的能力凝聚到一个按钮上。 |
 | Housemate | perchbird | 显示有关房屋装置和物品的信息。<br>/housemate 打开 UI。 |
 | Damage Info | perchbird | 自定义UI提供额外的伤害信息。 /dmginfo 显示配置。 |
