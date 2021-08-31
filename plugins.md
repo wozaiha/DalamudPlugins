@@ -45,6 +45,7 @@
 | Teleporter | Pohky | 传送到水晶的聊天命令。 /tp 寻求帮助 |
 | Pixel Perfect | Haplo064 | 添加一个 hitbox 指示器。 |
 | RezPls | Ottermandias | 简单显示谁正在复活谁。 |
+| JobBars | ocealot |  |
 | XIV Combo | attick | 该插件将连击和相互排斥的能力凝聚到一个按钮上。 |
 | Housemate | perchbird | 显示有关房屋装置和物品的信息。<br>/housemate 打开 UI。 |
 | Damage Info | perchbird | 自定义UI提供额外的伤害信息。 /dmginfo 显示配置。 |
@@ -55,5 +56,6 @@
 | Penny Pincher | tesu | 查看市场价格时，将最便宜的价格减1复制到剪贴板。 /penny 帮助 |
 | StarlightBreaker | NR | 关闭国服聊天敏感内容的屏蔽。 |
 | FPS Plugin | Caraxi | 显示游戏FPS。 |
+| TextToTalk | karashiiro | 聊天TTS。使用 /tttconfig 来设置启用频道和触发器/例外。 |
 | GatherBuddy | Ottermandias | 通过采集物的名字添加一个 UI 来简化采集点位置和冷却时间。 |
 | QoL Bar | UnknownX | 一个给聊天命令或其他插件、宏等等提供简单、可定制界面的插件<br>最开始这个插件会显示为界面下方的一个小方框。 |
