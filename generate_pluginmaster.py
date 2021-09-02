@@ -7,7 +7,7 @@ from os.path import getmtime
 from zipfile import ZipFile, ZIP_DEFLATED
 
 # DOWNLOAD_URL = 'https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/{plugin_name}/latest.zip'
-DOWNLOAD_URL = 'https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin={plugin_name}&isUpdate={is_update}&isTesting={is_testing}&branch=cn'
+DOWNLOAD_URL = 'https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin={plugin_name}&isUpdate={is_update}&isTesting={is_testing}&branch=cn-api4'
 
 
 DEFAULTS = {
@@ -30,6 +30,9 @@ TRIMMED_KEYS = [
     'ApplicableVersion',
     'Tags',
     'DalamudApiLevel',
+    'ImageUrls',
+    'IconUrl',
+    'Punchline',
 ]
 
 def main():
@@ -77,7 +80,7 @@ def extract_manifests():
 
     for manifest in manifests:
         desc = manifest.get('Description')
-        if desc in translations:
+        if translations.get(desc, "") :
             manifest['Description'] = translations[desc]
     return manifests
 

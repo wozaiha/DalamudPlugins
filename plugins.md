@@ -5,3 +5,4 @@
 
 | 插件名 | 作者 | 简介 |
 |---------------|---------------|-----------------|
+| TriadBuddy | MgAl2O4 | Triple triad solver, NPC matches only.<br>- highlights next move during mini game<br>- evaluates all deck presets before match<br>- deck optimizer for NPC<br>- adds more details to card collection window |

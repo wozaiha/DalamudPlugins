@@ -1,1 +1,31 @@
-[]
+[
+    {
+        "Author": "MgAl2O4",
+        "Name": "TriadBuddy",
+        "Description": "Triple triad solver, NPC matches only.\n- highlights next move during mini game\n- evaluates all deck presets before match\n- deck optimizer for NPC\n- adds more details to card collection window",
+        "InternalName": "TriadBuddy",
+        "AssemblyVersion": "1.2.0.2",
+        "RepoUrl": "https://github.com/MgAl2O4/FFTriadBuddyDalamud",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "solver",
+            "triad",
+            "triple triad"
+        ],
+        "DalamudApiLevel": 4,
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/MgAl2O4/FFTriadBuddyDalamud/main/assets/image1.png",
+            "https://raw.githubusercontent.com/MgAl2O4/FFTriadBuddyDalamud/main/assets/image2.png",
+            "https://raw.githubusercontent.com/MgAl2O4/FFTriadBuddyDalamud/main/assets/image3.png"
+        ],
+        "IconUrl": "https://raw.githubusercontent.com/MgAl2O4/FFTriadBuddyDalamud/main/assets/icon.png",
+        "Punchline": "Triple triad solver",
+        "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=TriadBuddy&isUpdate=False&isTesting=False&branch=cn-api4",
+        "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=TriadBuddy&isUpdate=True&isTesting=False&branch=cn-api4",
+        "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=TriadBuddy&isUpdate=False&isTesting=True&branch=cn-api4",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": "1630561861"
+    }
+]
