@@ -28,7 +28,7 @@ jobs:
       - name: Upload COS
         uses: Bluefissure/tencent-cos-action@v0.1.1
         with:
-          args: upload -r ./plugins /cn-api4/plugins/ && upload ./pluginmaster.json /cn-api4/
+          args: upload -r ./plugins /cn-api4/plugins && upload ./pluginmaster.json /cn-api4/
           secret_id: ${{ secrets.SECRET_ID }}
           secret_key: ${{ secrets.SECRET_KEY }}
           bucket: ${{ secrets.BUCKET }}
