@@ -11,15 +11,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout cn
+      - name: Checkout cn-api4
         uses: actions/checkout@v2
         with:
-          ref: cn
+          ref: cn-api4
 
       - name: Clear COS
         uses: Bluefissure/tencent-cos-action@v0.1.1
         with:
-          args: delete -r -f /
+          args: delete -r -f /cn-api4/
           secret_id: ${{ secrets.SECRET_ID }}
           secret_key: ${{ secrets.SECRET_KEY }}
           bucket: ${{ secrets.BUCKET }}
@@ -28,7 +28,7 @@ jobs:
       - name: Upload COS
         uses: Bluefissure/tencent-cos-action@v0.1.1
         with:
-          args: upload -r ./plugins /plugins && upload ./pluginmaster.json /
+          args: upload -r ./plugins /cn-api4/plugins/ && upload ./pluginmaster.json /cn-api4/
           secret_id: ${{ secrets.SECRET_ID }}
           secret_key: ${{ secrets.SECRET_KEY }}
           bucket: ${{ secrets.BUCKET }}
