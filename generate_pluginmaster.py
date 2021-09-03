@@ -79,8 +79,8 @@ def download_image(plugin_name, image_urls):
         url_md5 = get_md5(url)
         image_filename = f"{url_md5}.{url.split('.')[-1]}"
         image_filepath = join(image_dir, image_filename)
+        allowed_images.append(image_filename)
         if not exists(image_filepath):
-            allowed_images.append(image_filename)
             with open(image_filepath, "wb") as f:
                 img = requests.get(url, timeout=5)
                 f.write(img.content)
