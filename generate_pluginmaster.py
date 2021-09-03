@@ -82,6 +82,7 @@ def download_image(plugin_name, image_urls):
         allowed_images.append(image_filename)
         if not exists(image_filepath):
             with open(image_filepath, "wb") as f:
+                print(f"Downloading {url} -> {image_filepath}")
                 img = requests.get(url, timeout=5)
                 f.write(img.content)
         images_map[url] = IMAGE_URL.format(plugin_name=plugin_name, image_file=image_filename)
