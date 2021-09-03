@@ -22,7 +22,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git commit -m "Regenerate PluginMaster" -a
+          git commit -m "Regenerate PluginMaster"
       - name: Push changes
         continue-on-error: false
         uses: ad-m/github-push-action@master
