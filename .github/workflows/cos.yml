@@ -5,7 +5,7 @@ on:
     types:
       - completed
   workflow_dispatch:
-  
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -17,6 +17,7 @@ jobs:
           ref: cn-api4
 
       - name: Clear COS
+        continue-on-error: true
         uses: Bluefissure/tencent-cos-action@v0.1.1
         with:
           args: delete -r -f /cn-api4/
