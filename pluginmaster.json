@@ -15,17 +15,17 @@
         "DalamudApiLevel": 4,
         "Punchline": "Triple triad solver",
         "ImageUrls": [
-            "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/cn-api4/plugins/TriadBuddy/images/cba153d121c7ccfa0b2ff2a02bd7c039.png",
-            "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/cn-api4/plugins/TriadBuddy/images/4f97e63d8dda6792c13059fd5d5e0095.png",
-            "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/cn-api4/plugins/TriadBuddy/images/33523397178e66b040edacda5465659f.png"
+            "https://raw.githubusercontent.com/MgAl2O4/FFTriadBuddyDalamud/main/assets/image1.png",
+            "https://raw.githubusercontent.com/MgAl2O4/FFTriadBuddyDalamud/main/assets/image2.png",
+            "https://raw.githubusercontent.com/MgAl2O4/FFTriadBuddyDalamud/main/assets/image3.png"
         ],
-        "IconUrl": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/cn-api4/plugins/TriadBuddy/images/dc38a6143f85e4d2005d78d3c9c04b58.png",
+        "IconUrl": "https://raw.githubusercontent.com/MgAl2O4/FFTriadBuddyDalamud/main/assets/icon.png",
         "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=TriadBuddy&isUpdate=False&isTesting=False&branch=cn-api4",
         "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=TriadBuddy&isUpdate=True&isTesting=False&branch=cn-api4",
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=TriadBuddy&isUpdate=False&isTesting=True&branch=cn-api4",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1630630476"
+        "LastUpdated": "1630561861"
     }
 ]
