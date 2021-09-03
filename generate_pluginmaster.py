@@ -93,6 +93,7 @@ def download_image(plugin_name, image_urls):
     return images_map
 
 def handle_images(manifests):
+    return
     for manifest in manifests:
         image_urls = manifest.get('ImageUrls', []) + [manifest.get('IconUrl', '')]
         images_map = download_image(manifest["InternalName"], image_urls)
