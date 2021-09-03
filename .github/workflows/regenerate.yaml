@@ -13,7 +13,7 @@ jobs:
             python-version: '3.8'
       - uses: actions/checkout@v2
       - name: Generate PluginMaster
-        run: python generate_pluginmaster.py
+        run: pip install requests && python generate_pluginmaster.py
       - name: Commit files
         continue-on-error: true
         run: |

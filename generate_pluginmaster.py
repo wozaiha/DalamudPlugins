@@ -3,12 +3,23 @@ import os
 import codecs
 from time import time
 from sys import argv
-from os.path import getmtime
+from pathlib import Path
+from os import listdir
+from os.path import getmtime, isfile, join, exists
 from zipfile import ZipFile, ZIP_DEFLATED
+import requests
+import hashlib
+import copy
+
+md5 = hashlib.md5()
+
+def get_md5(text: str):
+    md5.update(text.encode())
+    return md5.hexdigest()
 
 # DOWNLOAD_URL = 'https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/{plugin_name}/latest.zip'
 DOWNLOAD_URL = 'https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin={plugin_name}&isUpdate={is_update}&isTesting={is_testing}&branch=cn-api4'
-
+IMAGE_URL = 'https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/cn-api4/plugins/{plugin_name}/images/{image_file}'
 
 DEFAULTS = {
     'IsHide': False,
@@ -30,10 +41,11 @@ TRIMMED_KEYS = [
     'ApplicableVersion',
     'Tags',
     'DalamudApiLevel',
-    'ImageUrls',
-    'IconUrl',
     'Punchline',
+    'ImageUrls',
+    'IconUrl'
 ]
+
 
 def main():
     # extract the manifests from inside the zip files
@@ -41,6 +53,9 @@ def main():
 
     # trim the manifests
     master = [trim_manifest(manifest) for manifest in master]
+
+    # download images to local
+    handle_images(master)
 
     # convert the list of manifests into a master list
     add_extra_fields(master)
@@ -53,6 +68,37 @@ def main():
 
     # update the Markdown
     update_md(master)
+
+def download_image(plugin_name, image_urls):
+    image_dir = f"./plugins/{plugin_name}/images/"
+    Path(image_dir).mkdir(parents=True, exist_ok=True)
+    images_map = {}
+    allowed_images = []
+    for url in image_urls:
+        if not url: continue
+        url_md5 = get_md5(url)
+        image_filename = f"{url_md5}.{url.split('.')[-1]}"
+        image_filepath = join(image_dir, image_filename)
+        if not exists(image_filepath):
+            allowed_images.append(image_filename)
+            with open(image_filepath, "wb") as f:
+                img = requests.get(url, timeout=5)
+                f.write(img.content)
+        images_map[url] = IMAGE_URL.format(plugin_name=plugin_name, image_file=image_filename)
+    all_files = [f for f in listdir(image_dir) if isfile(join(image_dir, f))]
+    for f in all_files:
+        if f not in allowed_images:
+            os.remove(join(image_dir, f))
+    return images_map
+
+def handle_images(manifests):
+    for manifest in manifests:
+        image_urls = manifest.get('ImageUrls', []) + [manifest.get('IconUrl', '')]
+        images_map = download_image(manifest["InternalName"], image_urls)
+        if 'ImageUrls' in manifest:
+            manifest['ImageUrls'] = list(map(lambda x: images_map.get(x, x), manifest['ImageUrls']))
+        if 'IconUrl' in manifest:
+            manifest['IconUrl'] = images_map.get(manifest['IconUrl'], manifest['IconUrl'])
 
 def extract_manifests():
     manifests = []
