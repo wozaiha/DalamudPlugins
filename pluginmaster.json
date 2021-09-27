@@ -27,7 +27,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 290,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "perchbird",
@@ -45,7 +45,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 587,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "Xorus",
@@ -73,7 +73,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "Haplo064",
@@ -98,7 +98,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 1131,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "perchbird",
@@ -116,7 +116,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 434,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "Caraxi",
@@ -134,7 +134,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 453,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "karashiiro",
@@ -161,7 +161,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 424,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "UnknownX",
@@ -183,7 +183,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 380,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "ascclemens",
@@ -201,7 +201,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 806,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "Haplo064",
@@ -229,7 +229,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 338,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "Ottermandias",
@@ -258,7 +258,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "daemitus",
@@ -281,7 +281,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "Strati",
@@ -304,14 +304,14 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 432,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "MgAl2O4",
         "Name": "TriadBuddy",
         "Description": "Triple triad solver, NPC matches only.\n- highlights next move during mini game\n- evaluates all deck presets before match\n- deck optimizer for NPC\n- adds more details to card collection window",
         "InternalName": "TriadBuddy",
-        "AssemblyVersion": "1.2.0.2",
+        "AssemblyVersion": "1.2.0.11",
         "RepoUrl": "https://github.com/MgAl2O4/FFTriadBuddyDalamud",
         "ApplicableVersion": "any",
         "Tags": [
@@ -333,7 +333,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "Haplo064",
@@ -361,7 +361,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "tesu",
@@ -387,7 +387,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 425,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "akira0245",
@@ -412,7 +412,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "kalilistic, karashiiro",
@@ -437,7 +437,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "Ottermandias",
@@ -468,7 +468,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 567,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "ascclemens",
@@ -485,7 +485,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 344,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "ascclemens",
@@ -503,7 +503,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "Pohky",
@@ -522,7 +522,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 321,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "Dragon",
@@ -548,7 +548,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 424,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "ascclemens",
@@ -565,7 +565,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "ascclemens",
@@ -583,7 +583,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 401,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "ocealot",
@@ -605,7 +605,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "ascclemens",
@@ -623,7 +623,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 81,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "haplo, daemitus",
@@ -640,7 +640,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 718,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "ascclemens",
@@ -658,7 +658,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 979,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "ascclemens",
@@ -676,7 +676,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 523,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "ocealot",
@@ -698,7 +698,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 440,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "ascclemens",
@@ -716,7 +716,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "Meli & perchbird",
@@ -738,7 +738,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 209,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "kalilistic",
@@ -762,7 +762,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 232,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "ascclemens",
@@ -779,7 +779,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "ascclemens",
@@ -796,7 +796,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "Caraxi",
@@ -814,7 +814,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 950,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     },
     {
         "Author": "attick & perchbird",
@@ -832,6 +832,6 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 125,
-        "LastUpdated": "1632772206"
+        "LastUpdated": "1632776251"
     }
 ]
