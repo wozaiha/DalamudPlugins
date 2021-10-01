@@ -85,5 +85,7 @@
     "Kapture is a loot tracker to capture drops, obtained items, rolls, and more.\nUse the roll monitor to see who you are waiting on to roll.": "",
     "Add separators to various numbers.\n\n- Damage/healing numbers (not DoTs or other players' numbers)\n- Party list HP\n- Ability costs on hotbars\n- Ability costs in tooltips": "",
     "Hides toast notifications you don't want to see.": "",
-    "\u6dfb\u52a0\u6e05\u9664\u6728\u4eba\u4ec7\u6068\u7684\u6587\u672c\u6307\u4ee4\u3002": ""
+    "\u6dfb\u52a0\u6e05\u9664\u6728\u4eba\u4ec7\u6068\u7684\u6587\u672c\u6307\u4ee4\u3002": "",
+    "Display game FPS. It really is that simple.": "",
+    "Check-out the repository for steps on how to report missing/wrong filter\nand hiding options. Have a look at the FAQ tab in the config window\nafter install for common caveats.": ""
 }
