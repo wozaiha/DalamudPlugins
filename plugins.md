@@ -12,7 +12,7 @@
 | Burnt Toast | ascclemens | Hides toast notifications you don't want to see. |
 | Item Search | Caraxi | Filterable search for Items and Key Items.<br>Try on any item without having to find someone to link it. |
 | XIVChat Server | ascclemens | XIVChat is a suite of software allowing you to use FFXIV's chat from<br>different devices. This is the server component required to do so.<br><br>For information about clients to use with this server, see the website. |
-| JobIcons | haplo, daemitus | 名字好蠢，用职业图标替换名牌。 |
+| JobIcons | haplo, daemitus, Loskh, wozaiha | 名字好蠢，用职业图标替换名牌。 |
 | Globetrotter | ascclemens | Automatically shows where treasure maps are located.<br><br>Icon: Map by Adrien Coquet from the Noun Project |
 | TriadBuddy | MgAl2O4 | Triple triad solver, NPC matches only.<br>- highlights next move during mini game<br>- evaluates all deck presets before match<br>- deck optimizer for NPC<br>- adds more details to card collection window |
 | ezMiniCactpot | daemitus | This plugin highlights tiles and lines in MiniCactpot that represent the best potential action you can take. |
