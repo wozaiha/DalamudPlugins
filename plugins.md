@@ -9,6 +9,7 @@
 | Good Memory | ascclemens | Adds an indicator in item tooltips to show whether you have acquired that item.<br><br>This indicator is in the item's description near the bottom and only appears for<br>items that are unlockable, such as orchestrion rolls, minions, etc.<br><br>Square Enix say this plugin is impossible!<br><br>Icon: Server by Vectorstall from the Noun Project |
 | AutoVisor | Ottermandias | Automatically change visor, headslot hiding, and weapon hiding status for different player states, as well as default CPose-stances per job. |
 | Pixel Perfect | Haplo064 | Showing exactly where to stand since 2020. |
+| DelvUI | jdsmith2816 | DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW |
 | Burnt Toast | ascclemens | Hides toast notifications you don't want to see. |
 | Item Search | Caraxi | Filterable search for Items and Key Items.<br>Try on any item without having to find someone to link it. |
 | XIVChat Server | ascclemens | XIVChat is a suite of software allowing you to use FFXIV's chat from<br>different devices. This is the server component required to do so.<br><br>For information about clients to use with this server, see the website. |
