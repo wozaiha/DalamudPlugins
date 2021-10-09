@@ -90,5 +90,6 @@
     "Check-out the repository for steps on how to report missing/wrong filter\nand hiding options. Have a look at the FAQ tab in the config window\nafter install for common caveats.": "",
     "DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW": "",
     "Allows the filtering of the different fly text types.": "",
-    "UI for showing countdowns for status effects and ability cooldowns.": ""
+    "UI for showing countdowns for status effects and ability cooldowns.": "",
+    "Customize the layout of the party list.": ""
 }

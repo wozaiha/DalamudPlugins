@@ -48,5 +48,6 @@
 | Damage Info | perchbird | Configurable options for in-game fly text color based on damage type, with additional settings for damage source and fly text decluttering options. |
 | DeepDungeonDex | Strati | A live bestiary for Deep Dungeon. Shows target mob aggro type, a subjective threat level, vulnerability to stun, and a general overview of notable mechanics. Threat level is meant to be taken with a grain of salt, is aimed towards solo players, and assumes a general familiarity with deep dungeon mechanics and the class being played. Information is accurate to the best of my knowledge based on crowdsourced information, but please open an issue on the GitHub or ping me in either the Deep Dungeons or QuickLauncher Discord servers if anything is found to be inaccurate or if you'd like to make a report on untested data. |
 | Compass | Chivalrik | Check-out the repository for steps on how to report missing/wrong filter<br>and hiding options. Have a look at the FAQ tab in the config window<br>after install for common caveats. |
+| Party List Layout | Caraxi | Customize the layout of the party list. |
 | MapLinker | Bluefissure | 自动记录聊天中的地图标记并在之后查询。 |
 | AutoVisor | Ottermandias | Automatically change visor, headslot hiding, and weapon hiding status for different player states, as well as default CPose-stances per job. |
