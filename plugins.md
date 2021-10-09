@@ -23,6 +23,7 @@
 | Market board | fmauNeko | 查询市场板。/pmb 打开 |
 | Globetrotter | ascclemens | Automatically shows where treasure maps are located.<br><br>Icon: Map by Adrien Coquet from the Noun Project |
 | JobBars | ocealot | Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN |
+| Mouseover Action Plugin | attick | This plugin lets you target friends or enemies like a macro, without the clunkiness of a macro. /pmoaction opens the configuration. |
 | Quest Map | ascclemens | Explore quests and their rewards.<br>- Search for quest names or their rewards, including instances,<br>  beast tribes, minions, etc.<br>- See an interactive map of quest requirements and unlocks.<br>- Open a quest info window even for quests you haven't completed.<br>- Open quest starting locations on the map or open quests in the journal.<br><br>Icons: treasure map by Anthony Ledoux from the Noun Project and<br>locked book by Anthony Ledoux from the Noun Project |
 | Chat Bubbles | Haplo064 | Using native chat bubble display, see who is talking about what in a more natural fashion. |
 | RezPls | Ottermandias | Easy overview about who is currently resurrecting who, who is already resurrected, and who has removable detrimental status effects in the world as well as in the group or alliance interface. |
