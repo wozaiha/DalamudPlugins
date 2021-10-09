@@ -20,6 +20,7 @@
 | Reset enmity command | akira0245 | 添加清除木人仇恨的文本指令。 |
 | FPS Plugin | Caraxi | Display game FPS. It really is that simple. |
 | Orchestrion Plugin | Meli & perchbird | Orchestrion Plugin allows you to change the currently playing in-game BGM. It includes<br>a curated list of the most accurate in-game song titles, so you know exactly what's playing,<br>if you want to know later! Add favorite songs to separate them from the rest.<br>Note: This plugin does not currently allow you to play actual orchestrion songs. |
+| Market board | fmauNeko | 查询市场板。/pmb 打开 |
 | Globetrotter | ascclemens | Automatically shows where treasure maps are located.<br><br>Icon: Map by Adrien Coquet from the Noun Project |
 | JobBars | ocealot | Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN |
 | Quest Map | ascclemens | Explore quests and their rewards.<br>- Search for quest names or their rewards, including instances,<br>  beast tribes, minions, etc.<br>- See an interactive map of quest requirements and unlocks.<br>- Open a quest info window even for quests you haven't completed.<br>- Open quest starting locations on the map or open quests in the journal.<br><br>Icons: treasure map by Anthony Ledoux from the Noun Project and<br>locked book by Anthony Ledoux from the Noun Project |
