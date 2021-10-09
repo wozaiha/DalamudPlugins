@@ -16,7 +16,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 321,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "ascclemens",
@@ -33,7 +33,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 344,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "attick & perchbird",
@@ -51,7 +51,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 125,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "jdsmith2816",
@@ -72,7 +72,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "haplo, daemitus, Loskh, wozaiha",
@@ -89,7 +89,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 718,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "Caraxi",
@@ -107,7 +107,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 453,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "ascclemens",
@@ -124,7 +124,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "ascclemens",
@@ -142,7 +142,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 81,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "daemitus",
@@ -165,14 +165,14 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "karashiiro",
         "Name": "PingPlugin",
         "Description": "Dalamud \u7684 ping \u663e\u793a\u63d2\u4ef6\u3002",
         "InternalName": "PingPlugin",
-        "AssemblyVersion": "1.13.0.0",
+        "AssemblyVersion": "1.14.0.0",
         "RepoUrl": "https://github.com/karashiiro/PingPlugin",
         "ApplicableVersion": "any",
         "Tags": [
@@ -192,7 +192,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 424,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "ascclemens",
@@ -209,7 +209,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "Haplo064",
@@ -237,7 +237,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 338,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "akira0245",
@@ -262,7 +262,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "Caraxi",
@@ -280,7 +280,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 637,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "Meli & perchbird",
@@ -302,7 +302,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 209,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "ascclemens",
@@ -320,7 +320,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 979,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "ocealot",
@@ -342,7 +342,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "ascclemens",
@@ -360,7 +360,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "Haplo064",
@@ -385,7 +385,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 1131,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "Ottermandias",
@@ -416,7 +416,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 567,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "Xorus",
@@ -444,7 +444,25 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
+    },
+    {
+        "Author": "Aireil",
+        "Name": "FlyTextFilter",
+        "Description": "Allows the filtering of the different fly text types.",
+        "InternalName": "FlyTextFilter",
+        "AssemblyVersion": "3.0.0.1",
+        "RepoUrl": "https://github.com/Aireil/FlyTextFilter",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 4,
+        "Punchline": "Allows the filtering of the different fly text types.",
+        "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=FlyTextFilter&isUpdate=False&isTesting=False&branch=cn-api4",
+        "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=FlyTextFilter&isUpdate=True&isTesting=False&branch=cn-api4",
+        "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=FlyTextFilter&isUpdate=False&isTesting=True&branch=cn-api4",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "MgAl2O4",
@@ -473,7 +491,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "ascclemens",
@@ -490,7 +508,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "ascclemens",
@@ -508,7 +526,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 523,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "ascclemens",
@@ -526,7 +544,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 806,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "ascclemens",
@@ -544,7 +562,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "tesu",
@@ -570,7 +588,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 425,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "UnknownX",
@@ -592,7 +610,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 380,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "Haplo064",
@@ -620,7 +638,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "ocealot",
@@ -642,7 +660,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 440,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "ascclemens",
@@ -660,7 +678,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 401,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "perchbird",
@@ -678,7 +696,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 434,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "kalilistic, karashiiro",
@@ -703,7 +721,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "kalilistic",
@@ -727,7 +745,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 232,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "Dragon",
@@ -753,7 +771,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 424,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "Caraxi",
@@ -771,7 +789,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 950,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "PunishedPineapple",
@@ -801,7 +819,25 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 290,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
+    },
+    {
+        "Author": "Caraxi",
+        "Name": "Remind Me",
+        "Description": "UI for showing countdowns for status effects and ability cooldowns.",
+        "InternalName": "RemindMe",
+        "AssemblyVersion": "1.1.0.0",
+        "RepoUrl": "https://github.com/Caraxi/RemindMe",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 4,
+        "Punchline": "Cooldown and Status tracking.",
+        "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=RemindMe&isUpdate=False&isTesting=False&branch=cn-api4",
+        "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=RemindMe&isUpdate=True&isTesting=False&branch=cn-api4",
+        "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=RemindMe&isUpdate=False&isTesting=True&branch=cn-api4",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 658,
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "perchbird",
@@ -819,7 +855,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 587,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "Strati",
@@ -842,7 +878,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 432,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "Chivalrik",
@@ -860,7 +896,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "Bluefissure",
@@ -881,7 +917,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 174,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     },
     {
         "Author": "Ottermandias",
@@ -910,6 +946,6 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633669258"
+        "LastUpdated": "1633794452"
     }
 ]

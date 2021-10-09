@@ -26,6 +26,7 @@
 | Chat Bubbles | Haplo064 | Using native chat bubble display, see who is talking about what in a more natural fashion. |
 | RezPls | Ottermandias | Easy overview about who is currently resurrecting who, who is already resurrected, and who has removable detrimental status effects in the world as well as in the group or alliance interface. |
 | EngageTimer | Xorus | Combat Timer for OBS and ingame overlay with some benefits like a big nice countdown in the middle of the screen in the style of the original one.<br>Please consult the repository link for OBS setup instructions. |
+| FlyTextFilter | Aireil | Allows the filtering of the different fly text types. |
 | TriadBuddy | MgAl2O4 | Triple triad solver, NPC matches only.<br>- highlights next move during mini game<br>- evaluates all deck presets before match<br>- deck optimizer for NPC<br>- adds more details to card collection window |
 | The Great Separator | ascclemens | Add separators to various numbers.<br><br>- Damage/healing numbers (not DoTs or other players' numbers)<br>- Party list HP<br>- Ability costs on hotbars<br>- Ability costs in tooltips |
 | Peeping Tom | ascclemens | 显示谁正在或者曾经以你为目标。 |
@@ -42,6 +43,7 @@
 | Visibility | Dragon | 允许您隐藏玩家、陆行鸟和宠物。<br>同时包括 VoidList，一个更好的黑名单。<br>可通过 /pvis 访问<br>可通过 /xlhelp 获得更多信息 |
 | Simple Tweaks Plugin | Caraxi | A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.<br>All changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)\ |
 | Waymark Preset Plugin | PunishedPineapple | Allows you to save, edit, place, import, export, and preview an unlimited number of waymark presets. |
+| Remind Me | Caraxi | UI for showing countdowns for status effects and ability cooldowns. |
 | Damage Info | perchbird | Configurable options for in-game fly text color based on damage type, with additional settings for damage source and fly text decluttering options. |
 | DeepDungeonDex | Strati | A live bestiary for Deep Dungeon. Shows target mob aggro type, a subjective threat level, vulnerability to stun, and a general overview of notable mechanics. Threat level is meant to be taken with a grain of salt, is aimed towards solo players, and assumes a general familiarity with deep dungeon mechanics and the class being played. Information is accurate to the best of my knowledge based on crowdsourced information, but please open an issue on the GitHub or ping me in either the Deep Dungeons or QuickLauncher Discord servers if anything is found to be inaccurate or if you'd like to make a report on untested data. |
 | Compass | Chivalrik | Check-out the repository for steps on how to report missing/wrong filter<br>and hiding options. Have a look at the FAQ tab in the config window<br>after install for common caveats. |
