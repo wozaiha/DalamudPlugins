@@ -26,6 +26,7 @@
 | Mouseover Action Plugin | attick | This plugin lets you target friends or enemies like a macro, without the clunkiness of a macro. /pmoaction opens the configuration. |
 | Quest Map | ascclemens | Explore quests and their rewards.<br>- Search for quest names or their rewards, including instances,<br>  beast tribes, minions, etc.<br>- See an interactive map of quest requirements and unlocks.<br>- Open a quest info window even for quests you haven't completed.<br>- Open quest starting locations on the map or open quests in the journal.<br><br>Icons: treasure map by Anthony Ledoux from the Noun Project and<br>locked book by Anthony Ledoux from the Noun Project |
 | Chat Bubbles | Haplo064 | Using native chat bubble display, see who is talking about what in a more natural fashion. |
+| PriceCheck | kalilistic | To check prices, hold your keybind and then hover over an item or via the item's context menu.<br>The prices are pulled from the crowd-sourced site Universalis. |
 | RezPls | Ottermandias | Easy overview about who is currently resurrecting who, who is already resurrected, and who has removable detrimental status effects in the world as well as in the group or alliance interface. |
 | No Kill Plugin | Bluefissure | A simple plugin that prevent the game from killing itself after a lobby error. |
 | EngageTimer | Xorus | Combat Timer for OBS and ingame overlay with some benefits like a big nice countdown in the middle of the screen in the style of the original one.<br>Please consult the repository link for OBS setup instructions. |
