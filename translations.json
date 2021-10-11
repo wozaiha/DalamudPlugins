@@ -92,5 +92,6 @@
     "Allows the filtering of the different fly text types.": "",
     "UI for showing countdowns for status effects and ability cooldowns.": "",
     "Customize the layout of the party list.": "",
-    "This plugin lets you target friends or enemies like a macro, without the clunkiness of a macro. /pmoaction opens the configuration.": ""
+    "This plugin lets you target friends or enemies like a macro, without the clunkiness of a macro. /pmoaction opens the configuration.": "",
+    "A simple plugin that prevent the game from killing itself after a lobby error.": ""
 }
