@@ -29,7 +29,6 @@
 | PriceCheck | kalilistic | To check prices, hold your keybind and then hover over an item or via the item's context menu.<br>The prices are pulled from the crowd-sourced site Universalis. |
 | RezPls | Ottermandias | Easy overview about who is currently resurrecting who, who is already resurrected, and who has removable detrimental status effects in the world as well as in the group or alliance interface. |
 | No Kill Plugin | Bluefissure | A simple plugin that prevent the game from killing itself after a lobby error. |
-| EngageTimer | Xorus | Combat Timer for OBS and ingame overlay with some benefits like a big nice countdown in the middle of the screen in the style of the original one.<br>Please consult the repository link for OBS setup instructions. |
 | FlyTextFilter | Aireil | Allows the filtering of the different fly text types. |
 | TriadBuddy | MgAl2O4 | Triple triad solver, NPC matches only.<br>- highlights next move during mini game<br>- evaluates all deck presets before match<br>- deck optimizer for NPC<br>- adds more details to card collection window |
 | The Great Separator | ascclemens | Add separators to various numbers.<br><br>- Damage/healing numbers (not DoTs or other players' numbers)<br>- Party list HP<br>- Ability costs on hotbars<br>- Ability costs in tooltips |
