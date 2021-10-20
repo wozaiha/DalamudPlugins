@@ -52,6 +52,7 @@
 | RepairMe | Chalkos | Helps you notice when your gear needs to be repaired or has materia to be extracted. /repairme to config |
 | Visibility | Dragon | 允许您隐藏玩家、陆行鸟和宠物。<br>同时包括 VoidList，一个更好的黑名单。<br>可通过 /pvis 访问<br>可通过 /xlhelp 获得更多信息 |
 | Simple Tweaks Plugin | Caraxi | A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.<br>All changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)\ |
+| Macro Chain | Caraxi | Allows for a macro to continue onto the next macro by using '/nextmacro' on the last line of a macro.<br>Adding '/nextmacro' on the last line of Macro #01 will automatically execute Macro #02<br>Adding '/nextmacro down' on the last line of Macro #01 will automatically execute Macro #11<br>Also allows executing any macro from chat using '/runmacro' but this command cannot be used while macros are running. |
 | Waymark Preset Plugin | PunishedPineapple | Allows you to save, edit, place, import, export, and preview an unlimited number of waymark presets. |
 | Remind Me | Caraxi | UI for showing countdowns for status effects and ability cooldowns. |
 | Damage Info | perchbird | Configurable options for in-game fly text color based on damage type, with additional settings for damage source and fly text decluttering options. |
