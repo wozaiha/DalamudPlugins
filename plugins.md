@@ -15,7 +15,7 @@
 | Compass | Chivalrik | Check-out the repository for steps on how to report missing/wrong filter<br>and hiding options. Have a look at the FAQ tab in the config window<br>after install for common caveats. |
 | Namingway | ascclemens | Rename abilities and status effects. |
 | Item Search | Caraxi | Filterable search for Items and Key Items.<br>Try on any item without having to find someone to link it. |
-| PingPlugin | karashiiro | Dalamud 的 ping 显示插件。 |
+| PingPlugin | developer |  |
 | NotificationMaster | Eternita | Notifies you about various events while your game is minimized. |
 | Pixel Perfect | Haplo064 | Showing exactly where to stand since 2020. |
 | Teleporter | Pohky | Adds Chat Commands to Teleport to Aetherytes or Areas by Name.<br>e.g. /tp Quarrymill or /tpm South Shroud<br>Supports setting up an Alias for Aetherytes to be used with Teleporter Commands<br>e.g. /tp home instead of /tp Estate Hall (Free Company) |
