@@ -51,6 +51,7 @@
 | Market board | fmauNeko | 查询市场板。/pmb 打开 |
 | Peeping Tom | ascclemens | 显示谁正在或者曾经以你为目标。 |
 | ezMiniCactpot | daemitus | This plugin highlights tiles and lines in MiniCactpot that represent the best potential action you can take. |
+| ChatCoordinates | kij | Places flag marker on map from coordinates in chat.<br>Opens map with given coordinates for current or given zone.<br>See "/coord" for configuration and usage info. |
 | EasyEyes | ocealot | A plugin which can hide any VFX. Icon by PAPACHIN |
 | Chat Bubbles | Haplo064 | Using native chat bubble display, see who is talking about what in a more natural fashion. |
 | RepairMe | Chalkos | Helps you notice when your gear needs to be repaired or has materia to be extracted. /repairme to config |
