@@ -37,6 +37,7 @@
 | Housemate | perchbird | Housemate offers multiple features that help you gain inspiration from other homes in XIV.<br>If you're looking for a specific home or outdoor item, you can check the exterior list<br>when running around a ward. If you're interested in seeing what items make up a<br>structure in a home - turn on the item overlay to see what they are!<br><br>Note: This plugin is purely informational, and does not assist you in placing<br>or "glitching" housing items. |
 | Waymark Preset Plugin | PunishedPineapple | Allows you to save, edit, place, import, export, and preview an unlimited number of waymark presets. |
 | EngageTimer | Xorus | Combat Timer for OBS and ingame overlay with some benefits like a big nice countdown in the middle of the screen in the style of the original one.<br>Please consult the repository link for OBS setup instructions. |
+| StarlightBreaker | Loskh | 关闭国服聊天敏感内容的屏蔽。 |
 | AutoVisor | Ottermandias | Automatically change visor, headslot hiding, and weapon hiding status for different player states, as well as default CPose-stances per job. |
 | DelvUI | jdsmith2816 | DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW |
 | Slide Cast | Haplo064 | 添加指示符，指示何时可以安全滑步。 |
