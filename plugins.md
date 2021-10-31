@@ -38,6 +38,7 @@
 | Waymark Preset Plugin | PunishedPineapple | Allows you to save, edit, place, import, export, and preview an unlimited number of waymark presets. |
 | EngageTimer | Xorus | Combat Timer for OBS and ingame overlay with some benefits like a big nice countdown in the middle of the screen in the style of the original one.<br>Please consult the repository link for OBS setup instructions. |
 | StarlightBreaker | Loskh | 关闭国服聊天敏感内容的屏蔽。 |
+| Harp Hero | MgAl2O4 | Assist mode for bards who want to play music but don't know how to.<br>- does NOT play anything automatically<br>- needs MIDI files to work<br>- adapts MIDI tracks to fit in game limitations for you<br>- you will be scored :O |
 | AutoVisor | Ottermandias | Automatically change visor, headslot hiding, and weapon hiding status for different player states, as well as default CPose-stances per job. |
 | Adventurer in Need | Caraxi | Recieve a notification when a duty roulette is in need of a role. /pbonus to setup |
 | DelvUI | jdsmith2816 | DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW |
