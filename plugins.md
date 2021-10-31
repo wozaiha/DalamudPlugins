@@ -39,6 +39,7 @@
 | EngageTimer | Xorus | Combat Timer for OBS and ingame overlay with some benefits like a big nice countdown in the middle of the screen in the style of the original one.<br>Please consult the repository link for OBS setup instructions. |
 | StarlightBreaker | Loskh | 关闭国服聊天敏感内容的屏蔽。 |
 | AutoVisor | Ottermandias | Automatically change visor, headslot hiding, and weapon hiding status for different player states, as well as default CPose-stances per job. |
+| Adventurer in Need | Caraxi | Recieve a notification when a duty roulette is in need of a role. /pbonus to setup |
 | DelvUI | jdsmith2816 | DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW |
 | Slide Cast | Haplo064 | 添加指示符，指示何时可以安全滑步。 |
 | WOLdo | Haplo064 | Movable text overlay of the current location name. |
@@ -56,6 +57,7 @@
 | EasyEyes | ocealot | A plugin which can hide any VFX. Icon by PAPACHIN |
 | Chat Bubbles | Haplo064 | Using native chat bubble display, see who is talking about what in a more natural fashion. |
 | RepairMe | Chalkos | Helps you notice when your gear needs to be repaired or has materia to be extracted. /repairme to config |
+| Oops, All Lalafells! | Avaflow | Turn everyone around you into Lalafells (or other races!)<br><br>Use /poal to open settings. |
 | Title Edit | attick & perchbird | Create your own custom title screen of your favorite location in-game, and open the game right up to that spot every time.<br>Includes a number of preinstalled title screens for you to use or get inspiration from, and an easy to use importer to<br>use title screens that others have shared! |
 | DeepDungeonDex | Strati | A live bestiary for Deep Dungeon. Shows target mob aggro type, a subjective threat level, vulnerability to stun, and a general overview of notable mechanics. Threat level is meant to be taken with a grain of salt, is aimed towards solo players, and assumes a general familiarity with deep dungeon mechanics and the class being played. Information is accurate to the best of my knowledge based on crowdsourced information, but please open an issue on the GitHub or ping me in either the Deep Dungeons or QuickLauncher Discord servers if anything is found to be inaccurate or if you'd like to make a report on untested data. |
 | NeatNoter | kalilistic, karashiiro | NeatNoter allows you to take notes without switching windows or any of that. |
