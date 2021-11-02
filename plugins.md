@@ -66,4 +66,5 @@
 | Quest Map | ascclemens | Explore quests and their rewards.<br>- Search for quest names or their rewards, including instances,<br>  beast tribes, minions, etc.<br>- See an interactive map of quest requirements and unlocks.<br>- Open a quest info window even for quests you haven't completed.<br>- Open quest starting locations on the map or open quests in the journal.<br><br>Icons: treasure map by Anthony Ledoux from the Noun Project and<br>locked book by Anthony Ledoux from the Noun Project |
 | Mouseover Action | attick | This plugin lets you target friends or enemies like a macro, without the clunkiness of a macro. /pmoaction opens the configuration. |
 | Burnt Toast | ascclemens | Hides toast notifications you don't want to see. |
+| Fancy Loading Screens | goat | 该插件在过图时显示目标区域的漂亮图。 |
 | PriceCheck | kalilistic | To check prices, hold your keybind and then hover over an item or via the item's context menu.<br>The prices are pulled from the crowd-sourced site Universalis. |
