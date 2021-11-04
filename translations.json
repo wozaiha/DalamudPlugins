@@ -105,5 +105,6 @@
     "Places flag marker on map from coordinates in chat.\nOpens map with given coordinates for current or given zone.\nSee \"/coord\" for configuration and usage info.": "",
     "Recieve a notification when a duty roulette is in need of a role. /pbonus to setup": "",
     "Turn everyone around you into Lalafells (or other races!)\n\nUse /poal to open settings.": "",
-    "Assist mode for bards who want to play music but don't know how to.\n- does NOT play anything automatically\n- needs MIDI files to work\n- adapts MIDI tracks to fit in game limitations for you\n- you will be scored :O": ""
+    "Assist mode for bards who want to play music but don't know how to.\n- does NOT play anything automatically\n- needs MIDI files to work\n- adapts MIDI tracks to fit in game limitations for you\n- you will be scored :O": "",
+    "\u4fee\u6539\u6e38\u620f\u7a97\u53e3\u7684\u6807\u9898": ""
 }
