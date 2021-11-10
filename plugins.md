@@ -55,7 +55,7 @@
 | Damage Info | perchbird | Configurable options for in-game fly text color based on damage type, with additional settings for damage source and fly text decluttering options. |
 | Housemate | perchbird | Housemate offers multiple features that help you gain inspiration from other homes in XIV.<br>If you're looking for a specific home or outdoor item, you can check the exterior list<br>when running around a ward. If you're interested in seeing what items make up a<br>structure in a home - turn on the item overlay to see what they are!<br><br>Note: This plugin is purely informational, and does not assist you in placing<br>or "glitching" housing items. |
 | Tourist | ascclemens | Tourist adds a window to assist with the sightseeing log.<br><br>- Show when sightseeing log vistas are available<br>- Add markers for ARR vistas<br>- Open vista locations on your map<br>- Hide already completed or unavailable vistas<br>- Show the command needed for each vista<br><br>Icon: sightseeing by muhammad from the Noun Project |
-| PingPlugin | developer |  |
+| PingPlugin | karashiiro | Dalamud 的 ping 显示插件。 |
 | Mouseover Action | attick | This plugin lets you target friends or enemies like a macro, without the clunkiness of a macro. /pmoaction opens the configuration. |
 | Pixel Perfect | Haplo064 | Showing exactly where to stand since 2020. |
 | Better Party Finder | ascclemens | 更好的组队搜索器。<br><br>在原本的过滤条件的基础上有如下的更新内容：<br><br>- 创建并切换过滤器预设<br>- 白名单/黑名单特定的任务和种类<br>- 添加角色名隐藏其发布的组队招募<br>- 删除超过最大装等的招募<br>- 通过装等范围进行过滤<br>- 通过特定的职业进行过滤（例如：机工+枪刃） |
