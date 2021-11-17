@@ -60,6 +60,7 @@
 | Pixel Perfect | Haplo064 | Showing exactly where to stand since 2020. |
 | Better Party Finder | ascclemens | 更好的组队搜索器。<br><br>在原本的过滤条件的基础上有如下的更新内容：<br><br>- 创建并切换过滤器预设<br>- 白名单/黑名单特定的任务和种类<br>- 添加角色名隐藏其发布的组队招募<br>- 删除超过最大装等的招募<br>- 通过装等范围进行过滤<br>- 通过特定的职业进行过滤（例如：机工+枪刃） |
 | PriceCheck | kalilistic | To check prices, hold your keybind and then hover over an item or via the item's context menu.<br>The prices are pulled from the crowd-sourced site Universalis. |
+| PrefPro | perchbird | Your character is personal, so you should be able to have NPCs refer to them<br>the way that you want. With PrefPro, you can control which text option<br>will appear when an NPC uses dialogue meant for a specific in-game gender.<br>This allows you to use a female player model and be referred to as male, and<br>vice versa. In addition, there are a few name customization options - if you<br>want to only be referred to by your last name, so be it.<br>Note: This plugin currently will not swap voiced cutscene dialogue. |
 | Compass | Chivalrik | Check-out the repository for steps on how to report missing/wrong filter<br>and hiding options. Have a look at the FAQ tab in the config window<br>after install for common caveats. |
 | Harp Hero | MgAl2O4 | Assist mode for bards who want to play music but don't know how to.<br>- does NOT play anything automatically<br>- needs MIDI files to work<br>- adapts MIDI tracks to fit in game limitations for you<br>- you will be scored :O |
 | Namingway | ascclemens | Rename abilities and status effects. |
