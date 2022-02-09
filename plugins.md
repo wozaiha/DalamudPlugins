@@ -7,7 +7,7 @@
 |---------------|---------------|-----------------|
 | Chat Bubbles | Haplo064 | Using native chat bubble display, see who is talking about what in a more natural fashion. |
 | ChatCoordinates | kij | Places flag marker on map from coordinates in chat.<br>Opens map with given coordinates for current or given zone.<br>See "/coord" for configuration and usage info. |
-| 修改窗口标题 | Azure Gem/Uiharu | 修改游戏窗口的标题 |
+| Window Title Changer | Azure Gem/Uiharu | 改变游戏窗口标题。 |
 | DeepDungeonDex | Strati | A live bestiary for Deep Dungeon. Shows target mob aggro type, a subjective threat level, vulnerability to stun, and a general overview of notable mechanics. Threat level is meant to be taken with a grain of salt, is aimed towards solo players, and assumes a general familiarity with deep dungeon mechanics and the class being played. Information is accurate to the best of my knowledge based on crowdsourced information, but please open an issue on the GitHub or ping me in either the Deep Dungeons or QuickLauncher Discord servers if anything is found to be inaccurate or if you'd like to make a report on untested data. |
 | EasyEyes | ocealot | A plugin which can hide any VFX. Icon by PAPACHIN |
 | Title Edit | attick & perchbird | Create your own custom title screen of your favorite location in-game, and open the game right up to that spot every time.<br>Includes a number of preinstalled title screens for you to use or get inspiration from, and an easy to use importer to<br>use title screens that others have shared! |
