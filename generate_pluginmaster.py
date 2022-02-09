@@ -119,19 +119,19 @@ def extract_manifests():
             manifests.append(json.loads(content))
 
     translations = {}
-    with codecs.open("translations.json", "r", "utf-8") as f:
-        translations = json.load(f)
-        for manifest in manifests:
-            desc = manifest.get('Description')
-            if desc and desc not in translations:
-                translations[desc] = ""
-    with codecs.open("translations.json", "w", "utf-8") as f:
+    for manifest in manifests:
+        translations[manifest["InternalName"]] = manifest.get('Description')
+    with codecs.open("translations/en.json", "w", "utf-8") as f:
         json.dump(translations, f, indent=4)
 
-    for manifest in manifests:
-        desc = manifest.get('Description')
-        if translations.get(desc, "") :
-            manifest['Description'] = translations[desc]
+    with codecs.open("translations/cn.json", "r", "utf-8") as f:
+        cn_translations = json.load(f)
+        for manifest in manifests:
+            if manifest["InternalName"] in cn_translations:
+                cn_desc = cn_translations[manifest["InternalName"]]
+                if cn_desc:
+                    manifest['Description'] = cn_desc
+
     return manifests
 
 def add_extra_fields(manifests):
