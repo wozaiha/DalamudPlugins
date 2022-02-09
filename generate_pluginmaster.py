@@ -184,7 +184,7 @@ def last_updated():
 
 def update_md(master):
     with codecs.open('mdtemplate.txt', 'r', 'utf8') as mdt:
-        md = mdt.read()
+        md = mdt.read().strip()
         for plugin in master:
             desc = plugin.get('Description', '')
             desc = desc.replace('\n', '<br>')
