@@ -1,9 +1,9 @@
 {
   "Author": "Azure Gem/Uiharu",
-  "Name": "修改窗口标题",
+  "Name": "Window Title Changer",
+  "Description": "Allows you to change your game window title",
   "InternalName": "WinTitle",
   "AssemblyVersion": "1.0.1.1",
-  "Description": "修改游戏窗口的标题",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/uiharuayako/FFXIV.WinTitle",
   "DalamudApiLevel": 4,
