@@ -121,6 +121,8 @@ def extract_manifests():
     translations = {}
     for manifest in manifests:
         translations[manifest["InternalName"]] = manifest.get('Description')
+        if manifest.get('Punchline'):
+            translations[manifest["InternalName"] + "-Punchline"] = manifest.get('Punchline')
     with codecs.open("translations/en.json", "w", "utf-8") as f:
         json.dump(translations, f, indent=4)
 
@@ -131,6 +133,10 @@ def extract_manifests():
                 cn_desc = cn_translations[manifest["InternalName"]]
                 if cn_desc:
                     manifest['Description'] = cn_desc
+            if (manifest["InternalName"] + "-Punchline") in cn_translations:
+                cn_punch = cn_translations[manifest["InternalName"] + "-Punchline"]
+                if cn_punch:
+                    manifest['Punchline'] = cn_punch
 
     return manifests
 
