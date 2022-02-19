@@ -18,6 +18,7 @@
 | RezPls | Ottermandias | 更轻松的展示谁在复活谁、谁已经被复活了、谁身上有 Debuff 等状态。在野外和团队列表也有效。 |
 | Burnt Toast | ascclemens | 隐藏你不想看到的 Toast 通知 |
 | Visibility | Dragon | 允许您隐藏玩家、陆行鸟和宠物。<br>同时包括 VoidList，一个更好的黑名单。<br>可通过 /pvis 访问<br>可通过 /xlhelp 获得更多信息 |
+| OBSPlugin | Bluefissure | A plugin to control OBS by websocket. |
 | Fancy Loading Screens | goat | 该插件在过图时显示目标区域的漂亮图。 |
 | Adventurer in Need | Caraxi | 当某个随机任务缺少你指定的职业的时候，发送一个通知。/pbonus 打开设置界面 |
 | WOLdo | Haplo064 | 用来显示当前所在地图名字的可移动文本悬浮窗。 |

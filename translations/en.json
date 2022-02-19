@@ -18,6 +18,7 @@
     "RezPls-Punchline": "Highlighting of Raises and detrimental status effects.",
     "BurntToast": "Hides toast notifications you don't want to see.",
     "Visibility": "Allows you to hide players, pets chocobos and minions.\nIncludes VoidList, which is a better blacklist.\nAccessible via /pvis\nMore information available via /xlhelp",
+    "OBSPlugin": "A plugin to control OBS by websocket.",
     "Dalamud.LoadingImage": "This plugin shows the destination zone's concept art while loading.",
     "Dalamud.LoadingImage-Punchline": "Shows the destination zone's concept art while loading",
     "AdventurerInNeed": "Recieve a notification when a duty roulette is in need of a role. /pbonus to setup",
