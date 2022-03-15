@@ -14,7 +14,7 @@
   "IsTestingExclusive": false,
   "RepoUrl": "https://github.com/Bluefissure/MapLinker",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 4,
+  "DalamudApiLevel": 5,
   "DownloadCount": 0,
   "LastUpdate": 0,
   "DownloadLinkInstall": null,
