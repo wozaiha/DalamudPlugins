@@ -15,7 +15,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 2790,
         "CategoryTags": [],
-        "LastUpdated": "1647314115"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "Chivalrik",
@@ -36,7 +36,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "Strati",
@@ -62,7 +62,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "Caraxi",
@@ -83,7 +83,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "attick",
@@ -108,7 +108,7 @@
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "UnknownX",
@@ -133,7 +133,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647314115"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "Eternita",
@@ -151,7 +151,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 234,
         "CategoryTags": [],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "Haplo064",
@@ -179,7 +179,7 @@
         "CategoryTags": [
             "social"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "perchbird",
@@ -200,7 +200,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "ascclemens",
@@ -220,7 +220,7 @@
         "CategoryTags": [
             "social"
         ],
-        "LastUpdated": "1647314115"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "kalilistic, karashiiro",
@@ -248,7 +248,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "perchbird",
@@ -269,7 +269,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "ascclemens",
@@ -289,7 +289,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647314115"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "haplo, daemitus, Loskh, wozaiha",
@@ -309,7 +309,7 @@
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "ascclemens",
@@ -331,7 +331,7 @@
             "UI",
             "utility"
         ],
-        "LastUpdated": "1647314115"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "PunishedPineapple",
@@ -364,7 +364,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647314115"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "ascclemens",
@@ -385,7 +385,7 @@
         "CategoryTags": [
             "utility"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "Haplo064",
@@ -414,7 +414,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 1398,
         "CategoryTags": [],
-        "LastUpdated": "1647314115"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "Azure Gem/Uiharu",
@@ -434,14 +434,14 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647314115"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "Dragon",
-        "Name": "Visibility",
+        "Name": "VisibilityCN",
         "Description": "\u5141\u8bb8\u60a8\u9690\u85cf\u73a9\u5bb6\u3001\u9646\u884c\u9e1f\u548c\u5ba0\u7269\u3002\n\u540c\u65f6\u5305\u62ec VoidList\uff0c\u4e00\u4e2a\u66f4\u597d\u7684\u9ed1\u540d\u5355\u3002\n\u53ef\u901a\u8fc7 /pvis \u8bbf\u95ee\n\u53ef\u901a\u8fc7 /xlhelp \u83b7\u5f97\u66f4\u591a\u4fe1\u606f",
         "InternalName": "Visibility",
-        "AssemblyVersion": "1.1.1.0",
+        "AssemblyVersion": "1.1.1.4",
         "RepoUrl": "https://github.com/SheepGoMeh/VisibilityPlugin",
         "ApplicableVersion": "any",
         "Tags": [
@@ -453,7 +453,8 @@
             "Visibility",
             "QoL"
         ],
-        "DalamudApiLevel": 4,
+        "DalamudApiLevel": 5,
+        "Punchline": "Allows you to hide players, pets, chocobos and minions.",
         "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Visibility&isUpdate=False&isTesting=False&branch=cn-api5",
         "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Visibility&isUpdate=True&isTesting=False&branch=cn-api5",
         "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=Visibility&isUpdate=False&isTesting=True&branch=cn-api5",
@@ -463,7 +464,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647314115"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "Aireil",
@@ -484,7 +485,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "Haplo064",
@@ -510,7 +511,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647314115"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "akira0245",
@@ -538,7 +539,7 @@
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1647314115"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "Caraxi",
@@ -559,7 +560,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "ascclemens",
@@ -578,7 +579,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 346,
         "CategoryTags": [],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "ascclemens",
@@ -600,7 +601,7 @@
             "UI",
             "social"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "Bluefissure",
@@ -623,7 +624,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 4,
         "CategoryTags": [],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "Ottermandias",
@@ -656,7 +657,7 @@
             "UI",
             "utility"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "ocealot",
@@ -681,7 +682,7 @@
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "karashiiro",
@@ -711,7 +712,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "ascclemens",
@@ -731,7 +732,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "ascclemens",
@@ -753,7 +754,7 @@
             "UI",
             "utility"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "daemitus",
@@ -779,7 +780,7 @@
         "CategoryTags": [
             "minigames"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "ascclemens",
@@ -800,7 +801,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647314115"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "Sonar Team",
@@ -840,7 +841,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647314115"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "Ottermandias",
@@ -874,7 +875,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647314115"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "goat",
@@ -894,7 +895,7 @@
         "CategoryTags": [
             "other"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "MgAl2O4",
@@ -926,17 +927,17 @@
         "CategoryTags": [
             "minigames"
         ],
-        "LastUpdated": "1647314115"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "Caraxi",
         "Name": "Simple Tweaks Plugin",
         "Description": "\u4e00\u4e9b\u5c0f\u7684\u529f\u80fd\u4f18\u5316\u7684\u5408\u96c6\uff0c\u76ee\u6807\u662f\u5728\u4e0d\u8fdb\u884c\u91cd\u5927\u6539\u52a8\u7684\u60c5\u51b5\u4e0b\u4f18\u5316\u6e38\u620f\u4f53\u9a8c\n\u6240\u6709\u7684\u529f\u80fd\u90fd\u662f\u53ef\u9009\u7684\uff0c\u5e76\u4e14\u9ed8\u8ba4\u5173\u95ed\u3002\u8bbf\u95ee\u6211\u4eec\u7684\u9879\u76ee\u754c\u9762\u53ef\u4ee5\u67e5\u770b\u6240\u6709\u4f18\u5316\u7684\u5217\u8868\u3002",
         "InternalName": "SimpleTweaksPlugin",
-        "AssemblyVersion": "1.6.4.1",
+        "AssemblyVersion": "1.6.6.0",
         "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 4,
+        "DalamudApiLevel": 5,
         "Punchline": "\u672c\u5e94\u8be5\u662f\u4e00\u4e2a\u7b80\u5355\u7684\u5c0f\u63d2\u4ef6...",
         "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=SimpleTweaksPlugin&isUpdate=False&isTesting=False&branch=cn-api5",
         "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=SimpleTweaksPlugin&isUpdate=True&isTesting=False&branch=cn-api5",
@@ -950,7 +951,7 @@
             "utility",
             "social"
         ],
-        "LastUpdated": "1647314115"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "kij",
@@ -977,7 +978,7 @@
             "social",
             "utility"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "Chalkos",
@@ -1011,7 +1012,7 @@
         "CategoryTags": [
             "inventory"
         ],
-        "LastUpdated": "1647314115"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "perchbird",
@@ -1032,7 +1033,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "kalilistic",
@@ -1063,7 +1064,7 @@
         "CategoryTags": [
             "inventory"
         ],
-        "LastUpdated": "1647314115"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "ascclemens",
@@ -1083,7 +1084,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "ascclemens",
@@ -1104,7 +1105,7 @@
         "CategoryTags": [
             "sound"
         ],
-        "LastUpdated": "1647314115"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "attick & perchbird",
@@ -1126,7 +1127,7 @@
             "UI",
             "utility"
         ],
-        "LastUpdated": "1647314115"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "jdsmith2816",
@@ -1150,7 +1151,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "Meli & perchbird",
@@ -1175,7 +1176,7 @@
         "CategoryTags": [
             "sound"
         ],
-        "LastUpdated": "1647314115"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "Haplo064",
@@ -1206,7 +1207,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "Caraxi",
@@ -1227,7 +1228,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647314115"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "ascclemens",
@@ -1249,7 +1250,7 @@
             "UI",
             "jobs"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "Xorus",
@@ -1282,7 +1283,7 @@
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "tesu",
@@ -1311,7 +1312,7 @@
         "CategoryTags": [
             "inventory"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "fmauNeko",
@@ -1333,7 +1334,7 @@
             "UI",
             "inventory"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "attick",
@@ -1357,7 +1358,7 @@
         "CategoryTags": [
             "jobs"
         ],
-        "LastUpdated": "1647314115"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "Caraxi",
@@ -1378,7 +1379,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "Bluefissure",
@@ -1398,7 +1399,7 @@
         "CategoryTags": [
             "other"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "MgAl2O4",
@@ -1433,7 +1434,7 @@
             "utility",
             "sound"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "kalilistic",
@@ -1461,7 +1462,7 @@
             "UI",
             "utility"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "Eternita",
@@ -1482,7 +1483,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647314115"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "daemitus",
@@ -1507,7 +1508,7 @@
         "CategoryTags": [
             "minigames"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "ocealot",
@@ -1532,7 +1533,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647314115"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "Pohky",
@@ -1554,7 +1555,7 @@
             "UI",
             "utility"
         ],
-        "LastUpdated": "1647314115"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "ocealot",
@@ -1579,7 +1580,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "Caraxi",
@@ -1600,7 +1601,7 @@
         "CategoryTags": [
             "utility"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "Bluefissure",
@@ -1624,7 +1625,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "Avaflow",
@@ -1646,7 +1647,7 @@
         "CategoryTags": [
             "other"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     },
     {
         "Author": "Caraxi",
@@ -1668,6 +1669,6 @@
             "inventory",
             "utility"
         ],
-        "LastUpdated": "1647314114"
+        "LastUpdated": "1647340966"
     }
 ]

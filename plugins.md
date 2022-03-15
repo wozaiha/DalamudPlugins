@@ -26,7 +26,7 @@
 | Globetrotter | ascclemens | 自动显示藏宝图的位置。 |
 | Slide Cast | Haplo064 | 添加指示符，指示何时可以安全滑步 |
 | Window Title Changer | Azure Gem/Uiharu | 改变游戏窗口标题 |
-| Visibility | Dragon | 允许您隐藏玩家、陆行鸟和宠物。<br>同时包括 VoidList，一个更好的黑名单。<br>可通过 /pvis 访问<br>可通过 /xlhelp 获得更多信息 |
+| VisibilityCN | Dragon | 允许您隐藏玩家、陆行鸟和宠物。<br>同时包括 VoidList，一个更好的黑名单。<br>可通过 /pvis 访问<br>可通过 /xlhelp 获得更多信息 |
 | FlyTextFilter | Aireil | 可以过滤不同类型的悬浮文字。 |
 | WOLdo | Haplo064 | 用来显示当前所在地图名字的可移动文本悬浮窗。 |
 | Reset enmity command | akira0245 | 添加清除木人仇恨的文本指令。 |
