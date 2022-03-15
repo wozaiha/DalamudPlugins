@@ -2,7 +2,7 @@ name: Upload to Tencent COS
 on:
   workflow_run:
     workflows: ["Regenerate PluginMaster"]
-    branches: [cn-api4]
+    branches: [cn-api5]
     types:
       - completed
   workflow_dispatch:
@@ -12,15 +12,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout cn-api4
+      - name: Checkout cn-api5
         uses: actions/checkout@v2
         with:
-          ref: cn-api4
+          ref: cn-api5
           
       - name: Upload COS
         uses: Bluefissure/tencent-cos-action@v0.1.1
         with:
-          args: upload -r ./plugins /cn-api4/plugins && upload ./pluginmaster.json /cn-api4/
+          args: upload -r ./plugins /cn-api5/plugins && upload ./pluginmaster.json /cn-api5/
           secret_id: ${{ secrets.SECRET_ID }}
           secret_key: ${{ secrets.SECRET_KEY }}
           bucket: ${{ secrets.BUCKET }}

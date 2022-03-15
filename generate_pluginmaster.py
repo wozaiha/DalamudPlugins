@@ -19,8 +19,8 @@ def get_md5(text: str):
     return md5.hexdigest()
 
 # DOWNLOAD_URL = 'https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/{plugin_name}/latest.zip'
-DOWNLOAD_URL = 'https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin={plugin_name}&isUpdate={is_update}&isTesting={is_testing}&branch=cn-api4'
-IMAGE_URL = 'https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/cn-api4/plugins/{plugin_name}/images/{image_file}'
+DOWNLOAD_URL = 'https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin={plugin_name}&isUpdate={is_update}&isTesting={is_testing}&branch=cn-api5'
+IMAGE_URL = 'https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/cn-api5/plugins/{plugin_name}/images/{image_file}'
 
 DEFAULTS = {
     'IsHide': False,
