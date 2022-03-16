@@ -38,7 +38,6 @@
 | OBSPlugin | Bluefissure | 通过 Websocket 控制 OBS 的插件。 |
 | AutoVisor | Ottermandias | 根据职业或玩家状态自动切换 头部显示 武器隐藏等状态 |
 | JobBars | ocealot | 附加职业量谱，队伍buff计时，减伤监控和更多功能。图标由PAPACHIN提供 |
-| PingPlugin | karashiiro | Dalamud 的 ping 显示插件。 |
 | Better Party Finder | ascclemens | 更好的组队搜索器。<br><br>在原本的过滤条件的基础上有如下的更新内容：<br><br>- 创建并切换过滤器预设<br>- 白名单/黑名单特定的任务和种类<br>- 添加角色名隐藏其发布的组队招募<br>- 删除超过最大装等的招募<br>- 通过装等范围进行过滤<br>- 通过特定的职业进行过滤（例如：机工+枪刃） |
 | Good Memory | ascclemens | 在物品描述中添加一个指示器来显示您是否已经获得该物品。<br><br>此指示器在物品描述中的底部显示“已获得：是/否”。<br>只作用于可解锁的物品，比如乐谱、宠物等。<br><br>SE 竟然说这个插件的功能无法实现！！ |
 | ezMiniCactpot | daemitus | 仙人微彩插件，自动高亮最优解 |
