@@ -8,6 +8,7 @@
 | 插件名 | 作者 | 简介 |
 |---------------|---------------|-----------------|
 | StarlightBreaker | Loskh | 关闭国服聊天敏感内容的屏蔽。 |
+| Ready Check Helper | PunishedPineapple | Displays the names of the players that were not ready in chat following the completion of a ready check, and optionally adds ready check status icons over the party and alliance lists. |
 | Compass | Chivalrik | 检查仓库，了解如何报告丢失/错误的过滤器<br>和隐藏选项。 在安装常见的警告后，查看配置窗口中常见的常见问题标签<br> |
 | DeepDungeonDex | Strati | 深层迷宫怪物图鉴，可以显示目标怪物的攻击类型、主观评价的危险程度、眩晕耐性、以及对其一些机制的概述。危险程度是针对单人玩家是否要谨慎对待来进行评价的，并且假定玩家不是一个一无所知的初见，他对深层迷宫的机制和所处的层数相对熟悉。这些信息来自众包，相对比较准确，但如果你发现任何错误之处，或者你想提交未测试的数据，请在 GitHub 上提交 issue ，或是在 Deep Dungeons 和 QuickLauncher 的 Discord 服务器内和我联系。 |
 | Adventurer in Need | Caraxi | 当某个随机任务缺少你指定的职业的时候，发送一个通知。/pbonus 打开设置界面 |
@@ -15,20 +16,21 @@
 | QoL Bar | UnknownX | 一个给聊天命令或其他插件、宏等等提供简单、可定制界面的插件<br>最开始这个插件会显示为界面下方的一个小方框。 |
 | NotificationMaster | Eternita | 在您的游戏最小化时通知您有关游戏的各种事件。 |
 | Chat Bubbles | Haplo064 | 使用游戏内置的发言气泡来展示聊天内容 |
+| Accurate CountDown | Haplo064 | Shows the current countdown time. |
 | Damage Info | perchbird | 为不同属性的伤害设置不同的颜色，可配置项包括伤害来源，具体染色位置等等 |
 | XIVChat Server | ascclemens | XIVChat 是一组可以跨设备在游戏内进行聊天的软件，本插件是 XIVChat 所需要的服务器组件。<br>有关与该服务器配合使用的客户端的信息，请参见网站。 |
 | NeatNoter | kalilistic, karashiiro | NeatNoter 允许您在无需切换窗口的情况下进行笔记。 |
 | PrefPro | perchbird | 你的角色是你创造的，所以你有权让NPC们用你希望的方式与你的角色交流。这个插件可以提供让你在NPC与你进行角色性别有关的对话时改变性别的选项，比如让NPC称你的烧0角色为猛1，反之亦然。另外，部分对话中你还可以设置NPC要以姓还是名称呼你的角色（国服应该不支持）<br>注意：本插件不能修改带配音的过场对话 |
 | The Great Separator | ascclemens | 为各种数字添加分隔符。<br><br>- 伤害/治疗数字  (不是 DoT 或其他玩家的数字)<br>- 小队名单上的 HP<br>- 热键栏上的技能消耗<br>- 弹出帮助中的技能消耗 |
-| JobIcons | haplo, daemitus, Loskh, wozaiha | 名字好蠢，用职业图标替换名牌。 |
+| JobIcons | haplo, daemitus | 名字好蠢，用职业图标替换名牌。 |
 | Tourist | ascclemens | Tourist 添加一个窗口来辅助探索笔记。<br><br>- 当探索笔记可用时显示<br>- 为 2.0 的探索笔记位置添加光球提示<br>- 在您的地图上标记探索笔记位置<br>- 隐藏已完成或不可用的位置<br>- 显示记录每个探索笔记所需的命令 |
 | Waymark Preset Plugin | PunishedPineapple | 标点预设插件，可以自由的导入导出编辑游戏内的标点预设。 |
 | Globetrotter | ascclemens | 自动显示藏宝图的位置。 |
 | Slide Cast | Haplo064 | 添加指示符，指示何时可以安全滑步 |
-| Window Title Changer | Azure Gem/Uiharu | 改变游戏窗口标题 |
+| Window Title Changer | Azure Gem | 改变游戏窗口标题 |
 | VisibilityCN | Dragon | 允许您隐藏玩家、陆行鸟和宠物。<br>同时包括 VoidList，一个更好的黑名单。<br>可通过 /pvis 访问<br>可通过 /xlhelp 获得更多信息 |
 | FlyTextFilter | Aireil | 可以过滤不同类型的悬浮文字。 |
-| WOLdo | Haplo064 | 用来显示当前所在地图名字的可移动文本悬浮窗。 |
+| WOLdo | Haplo064, maintained by Franz | 用来显示当前所在地图名字的可移动文本悬浮窗。 |
 | Reset enmity command | akira0245 | 添加清除木人仇恨的文本指令。 |
 | FPS Plugin | Caraxi | 显示游戏帧数 |
 | Glamaholic | ascclemens | 为幻化模板创建缓存<br>你可以导出、导出、分享你的幻化模板<br> |
@@ -48,6 +50,7 @@
 | Simple Tweaks Plugin | Caraxi | 一些小的功能优化的合集，目标是在不进行重大改动的情况下优化游戏体验<br>所有的功能都是可选的，并且默认关闭。访问我们的项目界面可以查看所有优化的列表。 |
 | ChatCoordinates | kij | 根据聊天内容在地图上放置标记<br>使用 /coord 打开配置界面看更详细的用法 |
 | RepairMe | Chalkos | 提醒修装备插件 /repairme 打开设置 |
+| EnemyListDebuffs | Felys | Displays your debuffs on the enemy list. Original implementation credit to aers. |
 | Housemate | perchbird | Housemate 提供多种功能，可以帮助你从游戏里其他人的房屋中获得灵感。<br>如果你正在寻找一个特定的家具或庭具，你可以在住宅区闲逛并检查其他人使用的家(庭) 具清单。如果你想看看别人拼的家具是由什么东西组成的，打开物品叠加功能，就可以看到它们是什么了！<br><br>注意：这个插件仅能显示信息，并不能帮助你放置家(庭) 具，甚至是卡bug放置家具到奇怪的位置。 |
 | PriceCheck | kalilistic | 查价插件。通过按住快捷键+悬停在想要查询的物品上来查询。<br>数据来自 Universalis |
 | Burnt Toast | ascclemens | 隐藏你不想看到的 Toast 通知 |
