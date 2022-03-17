@@ -21,7 +21,7 @@
 | XIVChat Server | ascclemens | XIVChat 是一组可以跨设备在游戏内进行聊天的软件，本插件是 XIVChat 所需要的服务器组件。<br>有关与该服务器配合使用的客户端的信息，请参见网站。 |
 | NeatNoter | kalilistic, karashiiro | NeatNoter 允许您在无需切换窗口的情况下进行笔记。 |
 | The Great Separator | ascclemens | 为各种数字添加分隔符。<br><br>- 伤害/治疗数字  (不是 DoT 或其他玩家的数字)<br>- 小队名单上的 HP<br>- 热键栏上的技能消耗<br>- 弹出帮助中的技能消耗 |
-| JobIcons | haplo, daemitus | 名字好蠢，用职业图标替换名牌。 |
+| JobIcons | haplo, daemitus, Loskh, wozaiha | 名字好蠢，用职业图标替换名牌。 |
 | Tourist | ascclemens | Tourist 添加一个窗口来辅助探索笔记。<br><br>- 当探索笔记可用时显示<br>- 为 2.0 的探索笔记位置添加光球提示<br>- 在您的地图上标记探索笔记位置<br>- 隐藏已完成或不可用的位置<br>- 显示记录每个探索笔记所需的命令 |
 | Waymark Preset Plugin | PunishedPineapple | 标点预设插件，可以自由的导入导出编辑游戏内的标点预设。 |
 | Globetrotter | ascclemens | 自动显示藏宝图的位置。 |
