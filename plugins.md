@@ -20,7 +20,6 @@
 | Damage Info | perchbird | 为不同属性的伤害设置不同的颜色，可配置项包括伤害来源，具体染色位置等等 |
 | XIVChat Server | ascclemens | XIVChat 是一组可以跨设备在游戏内进行聊天的软件，本插件是 XIVChat 所需要的服务器组件。<br>有关与该服务器配合使用的客户端的信息，请参见网站。 |
 | NeatNoter | kalilistic, karashiiro | NeatNoter 允许您在无需切换窗口的情况下进行笔记。 |
-| PrefPro | perchbird | 你的角色是你创造的，所以你有权让NPC们用你希望的方式与你的角色交流。这个插件可以提供让你在NPC与你进行角色性别有关的对话时改变性别的选项，比如让NPC称你的烧0角色为猛1，反之亦然。另外，部分对话中你还可以设置NPC要以姓还是名称呼你的角色（国服应该不支持）<br>注意：本插件不能修改带配音的过场对话 |
 | The Great Separator | ascclemens | 为各种数字添加分隔符。<br><br>- 伤害/治疗数字  (不是 DoT 或其他玩家的数字)<br>- 小队名单上的 HP<br>- 热键栏上的技能消耗<br>- 弹出帮助中的技能消耗 |
 | JobIcons | haplo, daemitus | 名字好蠢，用职业图标替换名牌。 |
 | Tourist | ascclemens | Tourist 添加一个窗口来辅助探索笔记。<br><br>- 当探索笔记可用时显示<br>- 为 2.0 的探索笔记位置添加光球提示<br>- 在您的地图上标记探索笔记位置<br>- 隐藏已完成或不可用的位置<br>- 显示记录每个探索笔记所需的命令 |
