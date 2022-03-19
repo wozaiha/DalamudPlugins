@@ -42,6 +42,7 @@
 | Good Memory | ascclemens | 在物品描述中添加一个指示器来显示您是否已经获得该物品。<br><br>此指示器在物品描述中的底部显示“已获得：是/否”。<br>只作用于可解锁的物品，比如乐谱、宠物等。<br><br>SE 竟然说这个插件的功能无法实现！！ |
 | ezMiniCactpot | daemitus | 仙人微彩插件，自动高亮最优解 |
 | Quest Map | ascclemens | 查看所有任务及其报酬<br>-搜索任务名称，报酬和所在地区（蛮族任务，宠物等）<br>-可交互式任务地图，能查看任务的目标或未解锁任务的解锁条件<br>-能查看尚未完成的任务详情窗口<br>-打开任务起始位置的地图或者它在任务列表中的信息 |
+| BigPlayerDebuffs | d87 | Scales up buffs/debuffs applied by you on Target Status frames |
 | Sonar | Sonar Team | 狩猎插件，自动上报&游戏内推送消息。/sonar 打开界面 /sonarconfig 打开配置。这个插件是闭源的，相关支持请访问 Sonar Support Discord |
 | RezPls | Ottermandias | 更轻松的展示谁在复活谁、谁已经被复活了、谁身上有 Debuff 等状态。在野外和团队列表也有效。 |
 | Fancy Loading Screens | goat | 该插件在过图时显示目标区域的漂亮图。 |

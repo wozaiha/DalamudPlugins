@@ -61,6 +61,7 @@
     "MiniCactpotSolver-Punchline": "Shows the next best move in Mini Cactpot.",
     "Quest Map": "Explore quests and their rewards.\n- Search for quest names or their rewards, including instances,\n  beast tribes, minions, etc.\n- See an interactive map of quest requirements and unlocks.\n- Open a quest info window even for quests you haven't completed.\n- Open quest starting locations on the map or open quests in the journal.\n\nIcons: treasure map by Anthony Ledoux from the Noun Project and\nlocked book by Anthony Ledoux from the Noun Project",
     "Quest Map-Punchline": "Explore quests and their rewards.",
+    "BigPlayerDebuffs": "Scales up buffs/debuffs applied by you on Target Status frames",
     "SonarPlugin": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord.",
     "SonarPlugin-Punchline": "Automatically send and receive hunt and fate relays.",
     "RezPls": "Easy overview about who is currently resurrecting who, who is already resurrected, and who has removable detrimental status effects in the world as well as in the group or alliance interface.",
