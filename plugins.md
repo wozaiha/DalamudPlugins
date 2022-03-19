@@ -79,3 +79,4 @@
 | MapLinker | Bluefissure | 自动记录聊天中的地图标记并在之后查询。 |
 | Oops, All Lalafells! | Avaflow | 把所有人的种族都变成拉拉肥！（或者其他种族）<br>/poal 打开配置 |
 | Item Search | Caraxi | 高级物品搜索，根据指定的条件筛选物品。并且可以在没有拥有的情况下发送物品到聊天。 |
+| Player Tags | r00telement | Lightweight job visibility in nameplates and chat. Create custom tags and add them to players with the context menu. |
