@@ -104,6 +104,8 @@
     "MarketBoardPlugin-Punchline": "Browse the market board from anywhere.",
     "XIVCombo": "This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu",
     "XIVCombo-Punchline": "PvP, but in PvE.",
+    "Dalamud.FindAnything": "Adds a convenient quick search akin to Spotlight that lets you open game windows, teleport, find wiki articles, and more.\nPress Control + T to open the search window. This can be changed by searching for \"Wotsit Settings\".",
+    "Dalamud.FindAnything-Punchline": "Find anything, go anywhere, in style.",
     "PartyListLayout": "Customize the layout of the party list.",
     "PartyListLayout-Punchline": "Customize the layout of the party list.",
     "NoKillPlugin": "A simple plugin that prevent the game from killing itself.",

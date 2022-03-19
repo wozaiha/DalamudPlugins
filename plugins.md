@@ -65,6 +65,7 @@
 | Penny Pincher | tesu | 用来“压一压”(将交易板上的最低价压一金)的插件<br><br>正常的压价流程：<br>1.打开调整物品价格的窗口<br>2.查看物品在市场上的时价<br>3.记下目前最低的时价<br>4.使用高超的数学技巧算出压价一块后的价格<br>5.关掉市场时价窗口<br>6.将算出的数字填入你的售价<br>7.确认物品的售价<br><br>但有了这个神奇的插件，就可以在你打开市场时价窗口时，自动根据最低价计算压价后的价格并复制到你的剪贴板上，省去了困难的计算压价环节。<br><br>有了这个插件，就可以轻松的完成压价：<br>1.打开调整物品价格的窗口<br>2.查看物品在市场上的时价<br>3.关掉市场时价窗口<br>4.将插件算出的数字粘贴到你的售价<br>5.确认物品的售价<br><br>这样省去了复杂的计算步骤，还能防止手滑少填一位数字 |
 | Market board | fmauNeko | 查询市场板。/pmb 打开 |
 | XIV Combo | attick | 该插件将连击和相互排斥的能力凝聚到一个按钮上。 |
+| Wotsit | goat | Adds a convenient quick search akin to Spotlight that lets you open game windows, teleport, find wiki articles, and more.<br>Press Control + T to open the search window. This can be changed by searching for "Wotsit Settings". |
 | Party List Layout | Caraxi | 自定义小队列表布局 |
 | No Kill Plugin | Bluefissure | 一个防止游戏自动关闭的简单插件 |
 | Harp Hero | MgAl2O4 | 弹琴辅助插件<br>- 不含任何自动演奏<br>- 需要MIDI文件来工作<br>- 自动转换MIDI音符为游戏内对应的键位<br>- 自动打分#音游并感 |
