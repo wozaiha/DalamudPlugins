@@ -30,6 +30,7 @@
 | VisibilityCN | Dragon | 允许您隐藏玩家、陆行鸟和宠物。<br>同时包括 VoidList，一个更好的黑名单。<br>可通过 /pvis 访问<br>可通过 /xlhelp 获得更多信息 |
 | FlyTextFilter | Aireil | 可以过滤不同类型的悬浮文字。 |
 | WOLdo | Haplo064, maintained by Franz | 用来显示当前所在地图名字的可移动文本悬浮窗。 |
+| MP Tick Bar | Marconsou | -Fast Fire III marker on the bar.<br>-Autostarts the bar before combat starts.<br>-Countdown with time offset.<br>-Compatible with FFXIV Material UI. |
 | Reset enmity command | akira0245 | 添加清除木人仇恨的文本指令。 |
 | FPS Plugin | Caraxi | 显示游戏帧数 |
 | Glamaholic | ascclemens | 为幻化模板创建缓存<br>你可以导出、导出、分享你的幻化模板<br> |
@@ -75,6 +76,7 @@
 | VFXEditor | ocealot | 查看、编辑 VFX，同时可以导出为 Penumbra Mod |
 | Teleporter | Pohky | 允许使用指令进行传送。方法：/tp 地点名<br>例子：/tp 格里达尼亚新街<br>也允许为某个地方设置别名，例如 /tp 部队房 |
 | EasyEyes | ocealot | 用于隐藏任意 VFX 的插件 |
+| Hunt Buddy | Dragon | A daily hunt bill tracker |
 | Macro Chain | Caraxi | 允许你在一个宏的末尾使用 /nextmacro 来连接下一个宏<br>在 宏 #01的末尾添加 /nextmacro 将会自动执行 宏 #02<br>在 宏 #01的末尾添加 /nextmacro down 将会自动执行 宏 #11<br>也可以在聊天窗输入 /runmacro 来执行任意宏，不过该指令在其他宏执行时不生效 |
 | MapLinker | Bluefissure | 自动记录聊天中的地图标记并在之后查询。 |
 | Oops, All Lalafells! | Avaflow | 把所有人的种族都变成拉拉肥！（或者其他种族）<br>/poal 打开配置 |
