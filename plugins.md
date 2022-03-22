@@ -25,7 +25,6 @@
 | Tourist | ascclemens | Tourist 添加一个窗口来辅助探索笔记。<br><br>- 当探索笔记可用时显示<br>- 为 2.0 的探索笔记位置添加光球提示<br>- 在您的地图上标记探索笔记位置<br>- 隐藏已完成或不可用的位置<br>- 显示记录每个探索笔记所需的命令 |
 | Waymark Preset Plugin | PunishedPineapple | 标点预设插件，可以自由的导入导出编辑游戏内的标点预设。 |
 | Globetrotter | ascclemens | 自动显示藏宝图的位置。 |
-| Slide Cast | Haplo064 | 添加指示符，指示何时可以安全滑步 |
 | Window Title Changer | Azure Gem | 改变游戏窗口标题 |
 | VisibilityCN | Dragon | 允许您隐藏玩家、陆行鸟和宠物。<br>同时包括 VoidList，一个更好的黑名单。<br>可通过 /pvis 访问<br>可通过 /xlhelp 获得更多信息 |
 | FlyTextFilter | Aireil | 可以过滤不同类型的悬浮文字。 |
@@ -67,7 +66,6 @@
 | Market board | fmauNeko | 查询市场板。/pmb 打开 |
 | XIV Combo | attick | 该插件将连击和相互排斥的能力凝聚到一个按钮上。 |
 | Wotsit | goat | Adds a convenient quick search akin to Spotlight that lets you open game windows, teleport, find wiki articles, and more.<br>Press Control + T to open the search window. This can be changed by searching for "Wotsit Settings". |
-| Party List Layout | Caraxi | 自定义小队列表布局 |
 | No Kill Plugin | Bluefissure | 一个防止游戏自动关闭的简单插件 |
 | Harp Hero | MgAl2O4 | 弹琴辅助插件<br>- 不含任何自动演奏<br>- 需要MIDI文件来工作<br>- 自动转换MIDI音符为游戏内对应的键位<br>- 自动打分#音游并感 |
 | Kapture | kalilistic | 挖宝监控。追踪掉落、R点情况等等 |
