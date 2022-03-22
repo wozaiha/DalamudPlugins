@@ -53,6 +53,8 @@
     "JobBars": "Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN",
     "JobBars-Punchline": "Extra job gauges",
     "PingPlugin": "A ping display plugin for Dalamud.",
+    "PartyIcons": "Adjusts player nameplates base on current content. For example you can display raid positions (that are assigned automatically by listening to the chat), job icons, or names with job icons.\n\nReverse-engineering effort achived by authors of JobIcons: haplo, daemitus, Loskh, wozaiha, without them this plugin would not be possible!",
+    "PartyIcons-Punchline": "Replace names with job icons, raid role positions and more!",
     "BetterPartyFinder": "Filter the party finder better.\n\nAll vanilla filtering is available, plus:\n\n- Create filter presets to easily switch between\n- Whitelist/blacklist specific duties and categories\n- Add character names to hide PFs from\n- Remove PFs above maximum item level\n- Filter on item level range\n- Filter on multiple jobs and slots (ex. MCH + GNB available)",
     "BetterPartyFinder-Punchline": "Use advanced Party Finder filter presets.",
     "GoodMemory": "Adds an indicator in item tooltips to show whether you have acquired that item.\n\nThis indicator is in the item's description near the bottom and only appears for\nitems that are unlockable, such as orchestrion rolls, minions, etc.\n\nSquare Enix say this plugin is impossible!\n\nIcon: Server by Vectorstall from the Noun Project",
