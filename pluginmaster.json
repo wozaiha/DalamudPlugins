@@ -18,7 +18,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/Kapture/Kapture.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/Kapture/Kapture.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620731267"
+        "LastUpdated": "1653127919"
     },
     {
         "Author": "Dragon, edited by Tsubasa",
@@ -44,7 +44,24 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/Visibility/Visibility.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/Visibility/Visibility.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620731267"
+        "LastUpdated": "1653127919"
+    },
+    {
+        "Author": "Caraxi, LittleNightmaare, Bite Ye,'+'ed by Tsubasahane",
+        "Name": "Simple Tweaks+",
+        "Description": "\u5927\u6982\u80fd\u6539\u6539\u5c0f\u961f\u5217\u8868\u2026\u2026\u5427\uff0c\u653e\u5f03PartyList\u7684\u5feb\u4e50",
+        "InternalName": "SimpleTweaksPlugin",
+        "AssemblyVersion": "1.0.0.3",
+        "RepoUrl": "https://github.com/wozaiha/SimpleTweaksPlugin",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 3,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/SimpleTweaksPlugin/SimpleTweaksPlugin.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/SimpleTweaksPlugin/SimpleTweaksPlugin.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/SimpleTweaksPlugin/SimpleTweaksPlugin.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1653127919"
     },
     {
         "Author": "Haplo064, Edited by Tsubasa",
@@ -66,23 +83,6 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/PixelPerfect/PixelPerfect.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/PixelPerfect/PixelPerfect.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620731267"
-    },
-    {
-        "Author": "Caraxi, LittleNightmaare, Bite Ye,'+'ed by Tsubasahane",
-        "Name": "Simple Tweaks+",
-        "Description": "\u5927\u6982\u80fd\u6539\u6539\u5c0f\u961f\u5217\u8868\u2026\u2026\u5427\uff0c\u653e\u5f03PartyList\u7684\u5feb\u4e50",
-        "InternalName": "SimpleTweaksPlugin",
-        "AssemblyVersion": "1.0.0.3",
-        "RepoUrl": "https://github.com/wozaiha/SimpleTweaksPlugin",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/SimpleTweaksPlugin/SimpleTweaksPlugin.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/SimpleTweaksPlugin/SimpleTweaksPlugin.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/SimpleTweaksPlugin/SimpleTweaksPlugin.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1620731267"
+        "LastUpdated": "1653127919"
     }
 ]
