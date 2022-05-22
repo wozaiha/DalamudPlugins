@@ -2,7 +2,7 @@
     "key":null,
     "track":"release",
     "assemblyVersion":"6.3.0.9",
-    "runtimeVersion":"6.0.0",
+    "runtimeVersion":"5.0.17",
     "runtimeRequired":true,
     "supportedGameVer":"2022.04.15.0000.0000",
     "changelog":{
@@ -12,7 +12,7 @@
             {
                 "message":"测试XLL",
                 "author":"me",
-                "sha":"493bdc7280710cbb95c276f1bceef5caf5466767",
+                "sha":"94fe655a208c64c69373084df18c4a7fd454ee96",
                 "date":"2022-05-19T23:57:42"
             }
         ]
