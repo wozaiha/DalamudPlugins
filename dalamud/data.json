@@ -1,18 +1,18 @@
 {
     "key":null,
     "track":"release",
-    "assemblyVersion":"6.3.0.8",
+    "assemblyVersion":"6.3.0.9",
     "runtimeVersion":"5.0.17",
     "runtimeRequired":true,
     "supportedGameVer":"2022.04.15.0000.0000",
     "changelog":{
         "date":"2022-05-19T23:57:59",
-        "version":"6.3.0.8",
+        "version":"6.3.0.9",
         "changes":[
             {
-                "message":"chore: add only-monospace font mode to exclude fonts as a failure source",
-                "author":"goaaats",
-                "sha":"8c548ce67ae71ca0ff4ec28bb666121f34b078e9",
+                "message":"测试XLL",
+                "author":"me",
+                "sha":"",
                 "date":"2022-05-19T23:57:42"
             }
         ]
