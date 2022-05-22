@@ -2,7 +2,7 @@
     "key":null,
     "track":"release",
     "assemblyVersion":"6.3.0.9",
-    "runtimeVersion":"5.0.17",
+    "runtimeVersion":"6.0.0",
     "runtimeRequired":true,
     "supportedGameVer":"2022.04.15.0000.0000",
     "changelog":{
