@@ -10,13 +10,10 @@
     "ACT"
   ],
   "DalamudApiLevel": 7,
-  "LoadRequiredState": 0,
-  "LoadSync": false,
   "LoadPriority": 0,
   "ImageUrls": [
     "https://github.com/wozaiha/DalamudACT/raw/main/SamplePlugin/images/icon.png"
   ],
   "IconUrl": "",
-  "Punchline": "简单的显示一下DPS",
-  "AcceptsFeedback": true
+  "Punchline": "简单的显示一下DPS"
 }
