@@ -14,23 +14,23 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/DalamudACT/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/DalamudACT/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1676737790"
+        "LastUpdated": "1676739189"
     },
     {
         "Author": "UnknownX",
         "Name": "A Realm Recorded",
         "Description": "Adds additional features to the duty recorder and automatically starts it in most instances. Please make sure the setting is enabled inside \"/record\".",
         "InternalName": "ARealmRecorded",
-        "AssemblyVersion": "0.5.1.2",
+        "AssemblyVersion": "0.5.1.1",
         "RepoUrl": "https://github.com/UnknownX7/ARealmRecorded",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
+        "DalamudApiLevel": 7,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/ARealmRecorded/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/ARealmRecorded/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/ARealmRecorded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1676737790"
+        "LastUpdated": "1676739189"
     }
 ]
