@@ -14,7 +14,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/DalamudACT/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/DalamudACT/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1676740745"
+        "LastUpdated": "1676814755"
     },
     {
         "Author": "UnknownX, Loskh, wozaiha, gamous",
@@ -24,13 +24,13 @@
         "AssemblyVersion": "0.5.1.1",
         "RepoUrl": "https://github.com/wozaiha/ARealmRecorded",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
+        "DalamudApiLevel": 7,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/ARealmRecorded+/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/ARealmRecorded+/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/ARealmRecorded+/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1676740745"
+        "LastUpdated": "1676814755"
     }
 ]
