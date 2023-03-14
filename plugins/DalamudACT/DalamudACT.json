@@ -2,7 +2,7 @@
   "Author": "wozaiha",
   "Name": "DalamudACT",
   "InternalName": "DalamudACT",
-  "AssemblyVersion": "0.2.0.0",
+  "AssemblyVersion": "0.2.0.1",
   "Description": "非满级情况或野外有概率不精确,青魔不适用望周知",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/wozaiha/DalamudACT",
@@ -10,10 +10,13 @@
     "ACT"
   ],
   "DalamudApiLevel": 7,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
   "LoadPriority": 0,
   "ImageUrls": [
     "https://github.com/wozaiha/DalamudACT/raw/main/SamplePlugin/images/icon.png"
   ],
   "IconUrl": "",
-  "Punchline": "简单的显示一下DPS"
+  "Punchline": "简单的显示一下DPS",
+  "AcceptsFeedback": true
 }
