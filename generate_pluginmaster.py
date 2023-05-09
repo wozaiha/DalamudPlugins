@@ -62,7 +62,7 @@ def extract_manifests():
             if content.startswith(u'\ufeff'):
                 content = content.encode('utf8')[3:].decode('utf8')
             manifests.append(json.loads(content))
-
+            manifests = sorted(manifests,key=lambda x:x["InternalName"])
     return manifests
 
 def add_extra_fields(manifests):
