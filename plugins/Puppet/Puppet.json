@@ -1,0 +1,21 @@
+{
+  "Author": "wozaiha",
+  "Name": "Puppet",
+  "InternalName": "Puppet",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "个人修改版Puppeteer,欢迎来提新功能需求",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/wozaiha/Puppet",
+  "CategoryTags": [
+    "BDSM",
+    "RP",
+    "Control"
+  ],
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Puppeteer Plus Pro Ultra Max",
+  "AcceptsFeedback": true
+}
