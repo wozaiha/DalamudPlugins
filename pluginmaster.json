@@ -14,7 +14,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/ARealmRecorded+/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/ARealmRecorded+/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1711592039"
+        "LastUpdated": "1711610054"
     },
     {
         "Author": "wozaiha",
@@ -31,14 +31,14 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/DalamudACT/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/DalamudACT/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1711592039"
+        "LastUpdated": "1711610054"
     },
     {
         "Author": "wozaiha",
         "Name": "Puppet",
         "Description": "\u4e2a\u4eba\u4fee\u6539\u7248Puppeteer,\u6b22\u8fce\u6765\u63d0\u65b0\u529f\u80fd\u9700\u6c42",
         "InternalName": "Puppet",
-        "AssemblyVersion": "0.0.0.2",
+        "AssemblyVersion": "0.0.0.3",
         "RepoUrl": "https://github.com/wozaiha/Puppet",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
@@ -48,6 +48,6 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/Puppet/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/Puppet/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1711592039"
+        "LastUpdated": "1711610054"
     }
 ]
