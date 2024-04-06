@@ -14,7 +14,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/ARealmRecorded+/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/ARealmRecorded+/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1711622128"
+        "LastUpdated": "1712377183"
     },
     {
         "Author": "wozaiha",
@@ -31,7 +31,28 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/DalamudACT/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/DalamudACT/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1711622128"
+        "LastUpdated": "1712377183"
+    },
+    {
+        "Author": "wozaiha",
+        "Name": "DiceLogger",
+        "Description": "\u9ab0\u70b9\u8bb0\u5f55\u63d2\u4ef6,/pdl\u6253\u5f00\u4e3b\u754c\u9762.",
+        "InternalName": "DiceLogger",
+        "AssemblyVersion": "0.0.0.1",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "dice",
+            "roll",
+            "game"
+        ],
+        "DalamudApiLevel": 9,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/DiceLogger/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/DiceLogger/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/DiceLogger/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1712377183"
     },
     {
         "Author": "wozaiha",
@@ -48,6 +69,6 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/Puppet/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/Puppet/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1711622128"
+        "LastUpdated": "1712377183"
     }
 ]
