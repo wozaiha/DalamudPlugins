@@ -1,0 +1,20 @@
+{
+  "Author": "wozaiha",
+  "Name": "DiceLogger",
+  "InternalName": "DiceLogger",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "骰点记录插件,/pdl打开主界面.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "dice",
+    "roll",
+    "game"
+  ],
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "骰点记录插件（小游戏用）.",
+  "AcceptsFeedback": true
+}
