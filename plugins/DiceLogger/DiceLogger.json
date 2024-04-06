@@ -2,7 +2,7 @@
   "Author": "wozaiha",
   "Name": "DiceLogger",
   "InternalName": "DiceLogger",
-  "AssemblyVersion": "0.0.0.3",
+  "AssemblyVersion": "0.0.0.4",
   "Description": "骰点记录插件,/pdl打开主界面.",
   "ApplicableVersion": "any",
   "Tags": [
