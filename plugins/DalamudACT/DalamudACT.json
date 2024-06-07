@@ -2,7 +2,7 @@
   "Author": "wozaiha",
   "Name": "DalamudACT",
   "InternalName": "DalamudACT",
-  "AssemblyVersion": "0.9.1.1",
+  "AssemblyVersion": "0.9.1.2",
   "Description": "非满级情况或野外有概率不精确,青魔不适用望周知",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/wozaiha/DalamudACT",
