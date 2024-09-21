@@ -2,7 +2,7 @@
   "Author": "wozaiha",
   "Name": "DiceLogger",
   "InternalName": "DiceLogger",
-  "AssemblyVersion": "0.0.0.5",
+  "AssemblyVersion": "0.0.0.10",
   "Description": "骰点记录插件,/pdl打开主界面.",
   "ApplicableVersion": "any",
   "Tags": [
@@ -10,7 +10,7 @@
     "roll",
     "game"
   ],
-  "DalamudApiLevel": 9,
+  "DalamudApiLevel": 10,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
