@@ -14,7 +14,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/ARealmRecorded+/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/ARealmRecorded+/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1727578745"
+        "LastUpdated": "1728272328"
     },
     {
         "Author": "wozaiha",
@@ -31,7 +31,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/DalamudACT/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/DalamudACT/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1727578745"
+        "LastUpdated": "1728272328"
     },
     {
         "Author": "wozaiha",
@@ -52,14 +52,14 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/DiceLogger/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/DiceLogger/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1727578745"
+        "LastUpdated": "1728272328"
     },
     {
         "Author": "wozaiha",
         "Name": "Puppet",
         "Description": "\u4e2a\u4eba\u4fee\u6539\u7248Puppeteer,\u6b22\u8fce\u6765\u63d0\u65b0\u529f\u80fd\u9700\u6c42",
         "InternalName": "Puppet",
-        "AssemblyVersion": "0.0.0.10",
+        "AssemblyVersion": "0.0.0.11",
         "RepoUrl": "https://github.com/wozaiha/Puppet",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 10,
@@ -69,6 +69,6 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/Puppet/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/wozaiha/DalamudPlugins/CustomRepo/plugins/Puppet/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1727578745"
+        "LastUpdated": "1728272328"
     }
 ]
