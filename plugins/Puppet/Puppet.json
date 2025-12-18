@@ -2,7 +2,7 @@
   "Author": "wozaiha",
   "Name": "Puppet",
   "InternalName": "Puppet",
-  "AssemblyVersion": "0.0.13.2",
+  "AssemblyVersion": "0.0.14.0",
   "Description": "个人修改版Puppeteer,欢迎来提新功能需求",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/wozaiha/Puppet",
@@ -11,7 +11,7 @@
     "RP",
     "Control"
   ],
-  "DalamudApiLevel": 13,
+  "DalamudApiLevel": 14,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,

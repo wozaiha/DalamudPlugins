@@ -2,14 +2,14 @@
   "Author": "wozaiha",
   "Name": "DalamudACT",
   "InternalName": "DalamudACT",
-  "AssemblyVersion": "0.13.0.1",
+  "AssemblyVersion": "0.14.0.0",
   "Description": "非满级情况或野外有概率不精确,青魔不适用望周知",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/wozaiha/DalamudACT",
   "CategoryTags": [
     "ACT"
   ],
-  "DalamudApiLevel": 13,
+  "DalamudApiLevel": 14,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
