@@ -2,7 +2,7 @@
   "Author": "Sevii",
   "Name": "AnimSync",
   "InternalName": "AnimSync",
-  "AssemblyVersion": "1.2.2.0",
+  "AssemblyVersion": "1.2.3.0",
   "Description": "Syncs Animations easily by standing ontop another with a compatible animations or use the command to restart every animation.",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 14,
